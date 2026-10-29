@@ -58,17 +58,15 @@
   };
   var TYPE_ORDER = ["sport", "wandeling", "cursus", "cultuur", "dialoog", "lezing", "overig"];
 
+  /* De site is altijd Nederlands; Engels alleen na een bewuste klik (?lang=en in de link).
+     Een eerder opgeslagen taalkeuze wordt niet meer gebruikt en opgeruimd. */
   function readLang() {
     var q = null;
     try { q = new URLSearchParams(location.search).get("lang"); } catch (e) { /* oude browser */ }
-    if (q === "en" || q === "nl") { save(q); return q; }
-    try {
-      var s = localStorage.getItem(STORE_KEY);
-      if (s === "en" || s === "nl") return s;
-    } catch (e) { /* opslag geblokkeerd */ }
-    return "nl";
+    return q === "en" ? "en" : "nl";
   }
-  function save(l) { try { localStorage.setItem(STORE_KEY, l); } catch (e) { /* negeren */ } }
+  function save() { try { localStorage.removeItem(STORE_KEY); } catch (e) { /* negeren */ } }
+  save();
 
   var AW = {
     lang: readLang(),

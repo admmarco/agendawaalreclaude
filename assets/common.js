@@ -77,6 +77,9 @@
     dict: DICT
   };
 
+  /* true als er voor deze sleutel een tekst is (in de huidige taal of in het Nederlands) */
+  AW.has = function (key) { return (DICT[AW.lang] && DICT[AW.lang][key] != null) || DICT.nl[key] != null; };
+
   AW.t = function (key, vars) {
     var s = (DICT[AW.lang] && DICT[AW.lang][key]);
     if (s == null) s = DICT.nl[key];
@@ -136,11 +139,14 @@
 
   /* ---------- kop en voet ---------- */
   function applyI18n(root) {
+    // Sleutels die (nog) niet geladen zijn laten we staan: de HTML bevat de Nederlandse tekst al.
     Array.prototype.forEach.call((root || document).querySelectorAll("[data-i18n]"), function (el) {
-      el.textContent = AW.t(el.getAttribute("data-i18n"));
+      var k = el.getAttribute("data-i18n");
+      if (AW.has(k)) el.textContent = AW.t(k);
     });
     Array.prototype.forEach.call((root || document).querySelectorAll("[data-i18n-aria]"), function (el) {
-      el.setAttribute("aria-label", AW.t(el.getAttribute("data-i18n-aria")));
+      var k = el.getAttribute("data-i18n-aria");
+      if (AW.has(k)) el.setAttribute("aria-label", AW.t(k));
     });
     Array.prototype.forEach.call(document.querySelectorAll("a[data-nav]"), function (a) {
       a.setAttribute("href", AW.href(a.getAttribute("data-nav")));

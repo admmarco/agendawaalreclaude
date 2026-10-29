@@ -1,0 +1,373 @@
+[
+  {
+    "id": "harmonie-juliana",
+    "name": "Harmonie Juliana Waalre",
+    "role": "Concerten en dorpsoptredens; repetities in Het Huis van Waalre.",
+    "website": "https://www.harmoniejulianawaalre.nl/",
+    "category": "cultuur"
+  },
+  {
+    "id": "harmonie-volharding",
+    "name": "Harmonie De Volharding (Aalst)",
+    "role": "Concerten en themaprogramma’s; repetities o.a. in Het Huis van Waalre.",
+    "website": "https://www.harmoniedevolharding.nl/",
+    "category": "cultuur"
+  },
+  {
+    "id": "vvdj",
+    "name": "Vereniging voor de Jeugd",
+    "role": "Koningsdag, Vliegerfestijn, Sinterklaas, Paosmikken en dorpsfeesten.",
+    "website": "https://vvdj.nl/",
+    "category": "cultuur"
+  },
+  {
+    "id": "kempenerpop",
+    "name": "Stichting Kempenerpop",
+    "role": "Gratis muziekfestival op de velden van RKVV Waalre.",
+    "website": "https://kempenerpop.nl/",
+    "category": "cultuur"
+  },
+  {
+    "id": "de-pracht-stichting",
+    "name": "Stichting De Pracht",
+    "role": "Doorlopend buurtprogramma, exposities, Repair Café en Halloweentocht.",
+    "website": "https://depracht.nl/",
+    "category": "cultuur"
+  },
+  {
+    "id": "dede-dance",
+    "name": "DéDé Dance",
+    "role": "Dansschool met optredens, o.a. bij Hof Weekend en Vliegerfestijn.",
+    "website": "https://www.dededance.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "scouting-aalst",
+    "name": "Scouting Aalst-Waalre",
+    "role": "Jeugdactiviteiten en blokhut De Meerberg.",
+    "website": "https://scoutingaalstwaalre.nl/",
+    "category": "cultuur"
+  },
+  {
+    "id": "scouting-dvt",
+    "name": "Scoutinggroep Dick van Toor",
+    "role": "Openbare scoutingevenementen zoals Spijkerslaan en Duck Race.",
+    "website": "https://dickvantoor.nl/",
+    "category": "cultuur"
+  },
+  {
+    "id": "loopgroep",
+    "name": "Loopgroep Waalre",
+    "role": "Ronde van Waalre en hardloopactiviteiten.",
+    "website": "https://www.waalre.nl/inwoners-en-ondernemers/sport-en-bewegen.html",
+    "category": "sport"
+  },
+  {
+    "id": "waalre-rally",
+    "name": "Stichting Waalre Rally",
+    "role": "Classic Car Rally met finish op de Markt.",
+    "website": "https://www.waalre.nl/inwoners-en-ondernemers/evenementenkalender.html",
+    "category": "sport"
+  },
+  {
+    "id": "het-klooster",
+    "name": "Het Klooster Waalre",
+    "role": "Zalen voor lezingen, clubs, film en feesten. Agenda staat als posters op de site.",
+    "website": "https://hetkloosterwaalre.nl/agenda/",
+    "category": "cultuur"
+  },
+  {
+    "id": "asv",
+    "name": "Aalster Senioren Vereniging",
+    "role": "Koersbal, kienen, creativiteitsclub en de jaarlijkse markt in Sporthal ’t Hazzo.",
+    "website": "https://www.aalsterseniorenvereniging.nl/activiteiten/",
+    "category": "cultuur"
+  },
+  {
+    "id": "trinity-church",
+    "name": "Trinity Church Eindhoven",
+    "role": "Engelstalige kerk aan De Pracht 1. Alpha-cursus, Selah, ontbijt, lunch en workshops; gewone zondagse diensten niet in de agenda.",
+    "website": "https://trinitychurcheindhoven.org/",
+    "category": "cultuur"
+  },
+  {
+    "id": "volksuniversiteit-waalre",
+    "name": "Volksuniversiteit Waalre",
+    "role": "Lezingen, leesclub en korte cursussen in Het Huis van Waalre en Het Klooster.",
+    "website": "https://www.volksuniversiteitwaalre.nl/",
+    "category": "cultuur"
+  },
+  {
+    "id": "ivn-vawa",
+    "name": "IVN Valkenswaard-Waalre",
+    "role": "Natuurwandelingen en natuurwerkdagen in de gemeente Waalre.",
+    "website": "https://www.ivn.nl/afdeling/valkenswaard-waalre/",
+    "category": "cultuur"
+  },
+  {
+    "id": "bridgeclub-aw",
+    "name": "Bridgeclub Aalst-Waalre",
+    "role": "Competitiebridge, tweewekelijks op woensdagavond in De Pracht.",
+    "website": "https://www.bridgeclubaalst-waalre.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "paramount-fitness",
+    "name": "Paramount Fitness",
+    "role": "Groepslessen in De Pracht, Aalst.",
+    "website": "https://paramountfitness.nl/lessen/",
+    "category": "sport"
+  },
+  {
+    "id": "sportcentrum-coach",
+    "name": "Sportcentrum Coach",
+    "role": "Fitness en groepslessen aan de Eindhovenseweg.",
+    "website": "https://www.sportcentrumcoach.nl/aanbod/groepslessen-lesrooster/",
+    "category": "sport"
+  },
+  {
+    "id": "cardo-waalre",
+    "name": "Cardo Waalre",
+    "role": "Groepslessen aan de Van Dijklaan.",
+    "website": "https://www.cardo.nl/groepslessrooster-waalre/",
+    "category": "sport"
+  },
+  {
+    "id": "dvs-voetbal",
+    "name": "DVS Voetbal (Aalst)",
+    "role": "Voetbalvereniging op Sportpark De Aalstervelden; ook walking football voor 60-plussers.",
+    "website": "https://dvs-voetbal.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "dvs-hockey",
+    "name": "MHV DVS Hockey",
+    "role": "Hockeyvereniging in Aalst voor jeugd en senioren; ook walking hockey.",
+    "website": "https://www.dvshockey.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "rkvv-waalre",
+    "name": "RKVV Waalre",
+    "role": "Voetbalvereniging in Waalre-dorp, vanaf 4 jaar.",
+    "website": "https://rkvvwaalre.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "bc-brabantia",
+    "name": "BC Brabantia",
+    "role": "Badmintonclub in sporthal ’t Hazzo; jeugd mag 3 keer gratis meedoen.",
+    "website": "https://www.bcbrabantia.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "ltv-eeckenrode",
+    "name": "LTV Eeckenrode",
+    "role": "Tennis- en padelvereniging in Waalre.",
+    "website": "https://www.eeckenrode.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "wltv",
+    "name": "WLTV",
+    "role": "Waalrese Lawn Tennis Vereniging.",
+    "website": "https://www.wltv.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "vc-bravo",
+    "name": "Volleybalclub Bravo",
+    "role": "Volleybal; de gemeente noemt de club voor Waalre.",
+    "website": "https://vcbravo.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "tang-soo-do-waalre",
+    "name": "Tang Soo Do Waalre",
+    "role": "Koreaanse vechtkunst voor gezondheid, zelfverdediging en weerbaarheid.",
+    "website": "https://www.tangsoodowaalre.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "hsv-de-vriendschap",
+    "name": "HSV De Vriendschap",
+    "role": "Handboogschieten, vanaf 12 jaar; training op dinsdagavond.",
+    "website": "https://hsvdevriendschapwaalre.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "hsv-de-meeris",
+    "name": "HSV De Meeris",
+    "role": "Hengelsportvereniging in Waalre.",
+    "website": "https://hsvdemeeris.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "rijvereniging-waalre",
+    "name": "Rijvereniging en ponyclub St. Willibrordus",
+    "role": "Paardrijden en ponyclub in Waalre.",
+    "website": "https://rijverenigingwaalre.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "mvc-aalst-waalre",
+    "name": "Modelvliegclub Aalst-Waalre",
+    "role": "Vliegen met modelvliegtuigen.",
+    "website": "https://mvcwaalre.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "vdh-waalre",
+    "name": "VDH Kringgroep Waalre",
+    "role": "Hondensport en hondentraining.",
+    "website": "https://vdhwaalre.jouwweb.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "butterfly-danspunt",
+    "name": "Butterfly Danspunt",
+    "role": "Dansles voor jeugd vanaf 4 jaar en voor volwassenen in De Pracht.",
+    "website": "https://depracht.nl/activiteiten/butterfly-danspunt/",
+    "category": "sport"
+  },
+  {
+    "id": "awc-de-keien",
+    "name": "Dansgarde AWC De Keien",
+    "role": "Dansgardes van de carnavalsvereniging.",
+    "website": "https://awcdekeien.nl/dansgardes/",
+    "category": "sport"
+  },
+  {
+    "id": "uc-dance",
+    "name": "UC Dance",
+    "role": "Dansschool, o.a. hiphop voor kinderen vanaf 7 jaar.",
+    "website": "https://www.ucdance.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "prachtboulers",
+    "name": "Prachtboulers",
+    "role": "Jeu de boules bij De Pracht, elke donderdagochtend.",
+    "website": "https://depracht.nl/nieuws/word-jij-onze-nieuwe-prachtbouler/",
+    "category": "sport"
+  },
+  {
+    "id": "wandelgroep-55plus",
+    "name": "Wandelgroep 55 plus Waalre",
+    "role": "Wandelingen van ongeveer 10 km op dinsdag, donderdag en vrijdag, met een programma per kwartaal.",
+    "website": "https://sites.google.com/view/wandelgroep55pluswaalre/home",
+    "category": "sport"
+  },
+  {
+    "id": "samen-buiten-bewegen",
+    "name": "Samen Buiten Bewegen 55+ (Stepibility)",
+    "role": "Buitentraining voor 55-plussers bij DVS en De Leemer Hoef.",
+    "website": "https://stepibility.nl/samenbuitenbewegen-trainingen-aalst-waalre/",
+    "category": "sport"
+  },
+  {
+    "id": "bewegen-op-muziek",
+    "name": "Bewegen op Muziek 65+",
+    "role": "Les op donderdagochtend in de ontmoetingsruimte van Brabantia.",
+    "website": "https://www.socialegidswaalre.nl/is/product/169290/221638/bewegen-op-muziek-65",
+    "category": "sport"
+  },
+  {
+    "id": "parkinsoncompass",
+    "name": "ParkinsonCompass",
+    "role": "Boksen, dansen en yoga voor mensen met Parkinson; in Waalre bij Circles.",
+    "website": "https://parkinsoncompass.nl/sport-bewegen/",
+    "category": "sport"
+  },
+  {
+    "id": "seniorenvereniging-waalre",
+    "name": "Seniorenvereniging Waalre",
+    "role": "O.a. fietsclub (april–oktober), jeu de boules, koersbal en wandelen.",
+    "website": "https://www.seniorenverenigingwaalre.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "fysio-beusen-foudraine",
+    "name": "Fysiotherapie Beusen-Foudraine",
+    "role": "Fysiofitness, small group training, valpreventie en De Wandelfysio.",
+    "website": "https://www.fysiowaalre.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "b-fysic-waalre",
+    "name": "B-fysic Knegt & Bungelaar",
+    "role": "Fysiotherapie en training in Waalre.",
+    "website": "https://www.b-fysic.nl/locaties/waalre/",
+    "category": "sport"
+  },
+  {
+    "id": "circles-waalre",
+    "name": "Circles Waalre",
+    "role": "Begeleide training op de Milon-cirkel, aan de Markt.",
+    "website": "https://www.circleswaalre.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "studio-mb",
+    "name": "Studio MB",
+    "role": "Yogastudio aan de Raadhuisstraat met groepslessen en online lessen.",
+    "website": "https://studio-mb.nl/groepslessen/",
+    "category": "sport"
+  },
+  {
+    "id": "uniek-sporten",
+    "name": "Uniek Sporten — beweegcoach Waalre",
+    "role": "Gratis hulp bij het vinden van sport of bewegen als je een beperking of aandoening hebt.",
+    "website": "https://www.waalre.nl/inwoners-en-ondernemers/uniek-sporten",
+    "category": "sport"
+  },
+  {
+    "id": "bridgeclub-waalre",
+    "name": "Bridgeclub Waalre",
+    "role": "Denksport: bridge.",
+    "website": "https://www.bridgeclubwaalre.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "bridge-inn",
+    "name": "Bridgeclub Bridge-Inn",
+    "role": "Denksport: bridge, o.a. in De Pracht.",
+    "website": "https://30023.bridge.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "avv-atletiek",
+    "name": "AVV Atletiek (Valkenswaard)",
+    "role": "Atletiekvereniging in de regio; de gemeente noemt de club voor Waalre.",
+    "website": "https://www.avv-atletiek.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "falcons-valkenswaard",
+    "name": "Falcons Valkenswaard",
+    "role": "Basketbal in de regio.",
+    "website": "https://www.valkenswaard-falcons.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "tonido",
+    "name": "Tonido (Valkenswaard)",
+    "role": "Gymnastiek en turnen in de regio.",
+    "website": "https://tonido-valkenswaard.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "vrc-the-vets",
+    "name": "VRC The Vets",
+    "role": "Rugbyclub in de regio.",
+    "website": "https://www.vets.nl/",
+    "category": "sport"
+  },
+  {
+    "id": "erv-beatrix",
+    "name": "ERV Beatrix",
+    "role": "Roeivereniging in Eindhoven.",
+    "website": "https://www.ervbeatrix.nl/",
+    "category": "sport"
+  }
+]

@@ -1,0 +1,291 @@
+[
+ {
+  "id": "erfgoed",
+  "titel": "Erfgoed – van dorpskerk tot NatLab",
+  "titel_en": "Heritage – from village church to NatLab",
+  "vervoer": "fiets",
+  "intro": "Fietstocht van ca. 2 uur, start bij de Oude Toren in Waalre-dorp.",
+  "intro_en": "Bike tour of about 2 hours, starting at the Old Tower in Waalre village.",
+  "stops": [
+   {
+    "nr": 1,
+    "naam": "Oude Sint-Willibrorduskerk (Oude Toren)",
+    "adres": "Oude Torenstraat 2",
+    "toelichting": "Rijksmonument uit de 12e eeuw met 14e-eeuws torenuurwerk",
+    "lat": 51.387078,
+    "lng": 5.442051
+   },
+   {
+    "nr": 2,
+    "naam": "Sint-Willibrorduskerk en pastorie",
+    "adres": "Hoogstraat 6",
+    "toelichting": "Kerk en pastorie (Markt 23) aan de Markt, beide rijksmonument",
+    "lat": 51.387583,
+    "lng": 5.443911
+   },
+   {
+    "nr": 3,
+    "naam": "Chocoladefabriek Rudolf Vermeulen",
+    "adres": "Willibrorduslaan 1",
+    "toelichting": "Familiebedrijf sinds 1939 in een voormalige sigarenfabriek",
+    "lat": 51.386297,
+    "lng": 5.444747
+   },
+   {
+    "nr": 4,
+    "naam": "Waalres Museum",
+    "adres": "Willibrorduslaan 4",
+    "toelichting": "Industrieel erfgoed van Waalre, o.a. Brabantia-collectie",
+    "lat": 51.386206,
+    "lng": 5.445151
+   },
+   {
+    "nr": 5,
+    "naam": "Woonhuis 'De Kempen' van Antoon Coolen",
+    "adres": "Blokvenlaan",
+    "toelichting": "Rijksmonument; privéwoning, alleen van buiten bekijken",
+    "lat": 51.386679,
+    "lng": 5.449362
+   },
+   {
+    "nr": 6,
+    "naam": "'t Stationskoffiehuis",
+    "adres": "Willibrorduslaan 137a",
+    "toelichting": "Historisch koffiehuis, nu brasserie",
+    "lat": 51.39201,
+    "lng": 5.459918
+   },
+   {
+    "nr": 7,
+    "naam": "Philips NatLab (High Tech Campus)",
+    "adres": "Prof. Holstlaan 4",
+    "toelichting": "Philips-laboratorium dat in 1963 naar Waalre verhuisde",
+    "lat": 51.41054,
+    "lng": 5.458081
+   }
+  ],
+  "koffie": [
+   "h07",
+   "h13"
+  ]
+ },
+ {
+  "id": "cultuur",
+  "titel": "Cultuur – podia en ontmoetingsplekken",
+  "titel_en": "Culture – stages and meeting places",
+  "vervoer": "fiets",
+  "intro": "Wandeling of fietstocht langs de culturele centra van Aalst en Waalre.",
+  "intro_en": "Walk or bike ride past the cultural centres of Aalst and Waalre.",
+  "stops": [
+   {
+    "nr": 1,
+    "naam": "Kempenerpop",
+    "adres": "Dreefstraat 48a",
+    "toelichting": "Gratis muziekfestival in september (velden RKVV Waalre)",
+    "lat": 51.386863,
+    "lng": 5.437565
+   },
+   {
+    "nr": 2,
+    "naam": "Het Klooster",
+    "adres": "Hoogstraat 8",
+    "toelichting": "Cultureel centrum in Waalre-dorp",
+    "lat": 51.387583,
+    "lng": 5.443839
+   },
+   {
+    "nr": 3,
+    "naam": "Sint-Willibrorduskerk",
+    "adres": "Hoogstraat 6",
+    "toelichting": "Rooms-katholieke kerk van Waalre",
+    "lat": 51.387583,
+    "lng": 5.443911
+   },
+   {
+    "nr": 4,
+    "naam": "Muziekonderwijs Aalst-Waalre",
+    "adres": "Bertelindislaan 1",
+    "toelichting": "Muziekschool; lessen ook in de AD-kerk en De Pracht",
+    "lat": 51.388739,
+    "lng": 5.446504
+   },
+   {
+    "nr": 5,
+    "naam": "Het Huis van Waalre en Bibliotheek",
+    "adres": "Koningin Julianalaan 19",
+    "toelichting": "Gemeentehuis, bibliotheek en repetitieruimte van Harmonie de Volharding",
+    "lat": 51.39181,
+    "lng": 5.461897
+   },
+   {
+    "nr": 6,
+    "naam": "Agnus Deikerk (AD-kerk)",
+    "adres": "Koningin Julianalaan 12",
+    "toelichting": "Protestantse kerk; lezingen en concerten",
+    "lat": 51.393238,
+    "lng": 5.472326
+   },
+   {
+    "nr": 7,
+    "naam": "'t Hazzo",
+    "adres": "Prunellalaan 7",
+    "toelichting": "Wijk- en sportcentrum",
+    "lat": 51.398474,
+    "lng": 5.473202
+   },
+   {
+    "nr": 8,
+    "naam": "Onze-Lieve-Vrouw-Presentatiekerk",
+    "adres": "Eindhovenseweg 63a",
+    "toelichting": "Rooms-katholieke kerk van Aalst",
+    "lat": 51.396528,
+    "lng": 5.476841
+   },
+   {
+    "nr": 9,
+    "naam": "De Pracht",
+    "adres": "De Pracht 2",
+    "toelichting": "Activiteiten- en ontmoetingscentrum in Ekenrooi",
+    "lat": 51.396415,
+    "lng": 5.486367
+   }
+  ],
+  "koffie": [
+   "h08",
+   "h15"
+  ]
+ },
+ {
+  "id": "sport",
+  "titel": "Sport – kennismaken met de clubs",
+  "titel_en": "Sport – meet the clubs",
+  "vervoer": "fiets",
+  "intro": "Fietstocht langs de sportparken; veel clubs bieden proeflessen aan.",
+  "intro_en": "Bike ride past the sports parks; many clubs offer trial lessons.",
+  "stops": [
+   {
+    "nr": 1,
+    "naam": "RKVV Waalre (voetbal)",
+    "adres": "Dreefstraat 48a",
+    "toelichting": "Sportpark Hoeveland; ook locatie van het vliegerfestival",
+    "lat": 51.386863,
+    "lng": 5.437565
+   },
+   {
+    "nr": 2,
+    "naam": "Sporthal Hoeveland",
+    "adres": "Meester Slootsweg 3",
+    "toelichting": "Sporthal voor o.a. gym en dans",
+    "lat": 51.387606,
+    "lng": 5.439502
+   },
+   {
+    "nr": 3,
+    "naam": "Waalrese LTV (tennis)",
+    "adres": "Meester Slootsweg 5",
+    "toelichting": "Tennispark naast Sporthal Hoeveland",
+    "lat": 51.387425,
+    "lng": 5.439923
+   },
+   {
+    "nr": 4,
+    "naam": "Circles Waalre (fitness)",
+    "adres": "Markt 5",
+    "toelichting": "Sportschool in Waalre-dorp",
+    "lat": 51.385805,
+    "lng": 5.444186
+   },
+   {
+    "nr": 5,
+    "naam": "De Smient",
+    "adres": "Van Dijklaan 21",
+    "toelichting": "Sportcentrum",
+    "lat": 51.396325,
+    "lng": 5.441113
+   },
+   {
+    "nr": 6,
+    "naam": "FT-Club (fitness)",
+    "adres": "Eindhovenseweg 8a",
+    "toelichting": "Sportschool in Aalst",
+    "lat": 51.39306,
+    "lng": 5.4764
+   },
+   {
+    "nr": 7,
+    "naam": "DVS voetbal",
+    "adres": "Sophiastraat 13A",
+    "toelichting": "Sportpark De Aalstervelden",
+    "lat": 51.397948,
+    "lng": 5.482254
+   },
+   {
+    "nr": 8,
+    "naam": "MHV DVS (hockey)",
+    "adres": "Arembergstraat 14a",
+    "toelichting": "Sportpark De Aalstervelden",
+    "lat": 51.399365,
+    "lng": 5.482055
+   },
+   {
+    "nr": 9,
+    "naam": "BC Brabantia (badminton)",
+    "adres": "De Pracht 3",
+    "toelichting": "Speelt in De Pracht en 't Hazzo",
+    "lat": 51.396191,
+    "lng": 5.486625
+   },
+   {
+    "nr": 10,
+    "naam": "Paramount Fitness",
+    "adres": "De Pracht 4",
+    "toelichting": "Sportschool bij De Pracht",
+    "lat": 51.396272,
+    "lng": 5.487142
+   }
+  ],
+  "koffie": [
+   "h05"
+  ]
+ },
+ {
+  "id": "winkels",
+  "titel": "Winkels – de drie winkelgebieden",
+  "titel_en": "Shops – the three shopping areas",
+  "vervoer": "wandel",
+  "intro": "Wandeling per winkelgebied, af te sluiten met koffie.",
+  "intro_en": "A walk per shopping area, ending with coffee.",
+  "stops": [
+   {
+    "nr": 1,
+    "naam": "Waalre-dorp",
+    "adres": "Markt",
+    "toelichting": "Winkels en horeca rond de Markt en de Hoogstraat",
+    "lat": 51.385883,
+    "lng": 5.44362
+   },
+   {
+    "nr": 2,
+    "naam": "Aalst",
+    "adres": "Den Hof",
+    "toelichting": "Winkelcentrum met markt en horeca",
+    "lat": 51.395476,
+    "lng": 5.475693
+   },
+   {
+    "nr": 3,
+    "naam": "Voldijn",
+    "adres": "Hortensialaan",
+    "toelichting": "Winkelcentrum De Voldijn met supermarkt en speciaalzaken",
+    "lat": 51.399855,
+    "lng": 5.468984
+   }
+  ],
+  "koffie": [
+   "h08",
+   "h15",
+   "h20",
+   "h21"
+  ]
+ }
+]

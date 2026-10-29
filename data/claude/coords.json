@@ -1,0 +1,312 @@
+{
+ "venue:huis-van-waalre": {
+  "lat": 51.391864,
+  "lng": 5.462044,
+  "bron": "OpenStreetMap"
+ },
+ "venue:bibliotheek": {
+  "lat": 51.391864,
+  "lng": 5.462044,
+  "bron": "OpenStreetMap"
+ },
+ "venue:de-pracht": {
+  "lat": 51.396415,
+  "lng": 5.486367,
+  "bron": "OpenStreetMap"
+ },
+ "venue:agnus-dei": {
+  "lat": 51.393238,
+  "lng": 5.472326,
+  "bron": "OpenStreetMap"
+ },
+ "venue:het-klooster": {
+  "lat": 51.387293,
+  "lng": 5.444027,
+  "bron": "OpenStreetMap"
+ },
+ "venue:sporthal-hazzo": {
+  "lat": 51.398474,
+  "lng": 5.473202,
+  "bron": "OpenStreetMap"
+ },
+ "venue:sporthal-pracht": {
+  "lat": 51.396191,
+  "lng": 5.486625,
+  "bron": "OpenStreetMap"
+ },
+ "venue:sporthal-hoeveland": {
+  "lat": 51.387606,
+  "lng": 5.439502,
+  "bron": "OpenStreetMap"
+ },
+ "venue:scouting-meerberg": {
+  "lat": 51.399034,
+  "lng": 5.454935,
+  "bron": "OpenStreetMap"
+ },
+ "venue:oude-willibrordus": {
+  "lat": 51.387078,
+  "lng": 5.442051,
+  "bron": "OpenStreetMap"
+ },
+ "venue:tapperij-vvdj": {
+  "lat": 51.387431,
+  "lng": 5.441804,
+  "bron": "OpenStreetMap"
+ },
+ "venue:trinity-church": {
+  "lat": 51.39645,
+  "lng": 5.486737,
+  "bron": "OpenStreetMap"
+ },
+ "venue:paramount-fitness": {
+  "lat": 51.396272,
+  "lng": 5.487142,
+  "bron": "OpenStreetMap"
+ },
+ "venue:sportcentrum-coach": {
+  "lat": 51.39306,
+  "lng": 5.4764,
+  "bron": "OpenStreetMap"
+ },
+ "venue:cardo-waalre": {
+  "lat": 51.395529,
+  "lng": 5.438821,
+  "bron": "OpenStreetMap"
+ },
+ "venue:sportpark-aalstervelden": {
+  "lat": 51.396394,
+  "lng": 5.493119,
+  "bron": "OpenStreetMap"
+ },
+ "venue:brabantia-ontmoetingsruimte": {
+  "lat": 51.397243,
+  "lng": 5.479609,
+  "bron": "OpenStreetMap"
+ },
+ "venue:circles-waalre": {
+  "lat": 51.385805,
+  "lng": 5.444186,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Huisartsenpraktijk Lankhorst": {
+  "lat": 51.387864,
+  "lng": 5.44728,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Apotheek Aalst-Waalre": {
+  "lat": 51.39694,
+  "lng": 5.474696,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Apotheek Waalre-Dorp": {
+  "lat": 51.387445,
+  "lng": 5.438919,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Tandartspraktijk R.A. van Hek": {
+  "lat": 51.388265,
+  "lng": 5.446067,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Fysiotherapie Beusen-Foudraine": {
+  "lat": 51.396352,
+  "lng": 5.480638,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Brasserie Hoom": {
+  "lat": 51.395212,
+  "lng": 5.476158,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Tapperij De Oude Toren": {
+  "lat": 51.387531,
+  "lng": 5.441746,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Albert Heijn De Bus": {
+  "lat": 51.386942,
+  "lng": 5.44576,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Lidl De Bus": {
+  "lat": 51.387006,
+  "lng": 5.446374,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Jumbo Aalst Waalre": {
+  "lat": 51.399874,
+  "lng": 5.469664,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Bakkerij Godfried de Vocht": {
+  "lat": 51.394856,
+  "lng": 5.475544,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Keurslager P. van Tongerloo": {
+  "lat": 51.395714,
+  "lng": 5.476301,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Shell Waalre": {
+  "lat": 51.395296,
+  "lng": 5.438794,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Bibliotheek Waalre": {
+  "lat": 51.391864,
+  "lng": 5.462044,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Huisartsen Medisch Centrum Aalst": {
+  "lat": 51.396994,
+  "lng": 5.474832,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Huisartsenpraktijk van Sambeek": {
+  "lat": 51.387464,
+  "lng": 5.438734,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Huisartsenpraktijk Roelofsen": {
+  "lat": 51.387464,
+  "lng": 5.438734,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Mondzorg Da Vinci": {
+  "lat": 51.396977,
+  "lng": 5.474843,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Orthocenter Waalre": {
+  "lat": 51.399137,
+  "lng": 5.478389,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Mondhygiënist Bunyadi": {
+  "lat": 51.387409,
+  "lng": 5.438675,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:FRRSS Waalre": {
+  "lat": 51.393613,
+  "lng": 5.464514,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Het Oefenlokaal": {
+  "lat": 51.387409,
+  "lng": 5.438675,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:040verloskunde": {
+  "lat": 51.38749,
+  "lng": 5.438904,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Podotherapie Couteaux": {
+  "lat": 51.387409,
+  "lng": 5.438675,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Diëtistenpraktijk Dieetteam": {
+  "lat": 51.38749,
+  "lng": 5.438904,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Logopedie Eveline van Vulpen": {
+  "lat": 51.387409,
+  "lng": 5.438675,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Osteopathie Geurtsen": {
+  "lat": 51.39613,
+  "lng": 5.479475,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Verpleeg Collectief Waalre": {
+  "lat": 51.400434,
+  "lng": 5.468457,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Residentie Haelst": {
+  "lat": 51.396237,
+  "lng": 5.475287,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Serviceflat Eeckenrhode": {
+  "lat": 51.389632,
+  "lng": 5.477191,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Dierenkliniek Waalre": {
+  "lat": 51.399542,
+  "lng": 5.475363,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Van Hardeveld Optiek": {
+  "lat": 51.387965,
+  "lng": 5.449851,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Pearle Opticiens Waalre": {
+  "lat": 51.395567,
+  "lng": 5.475898,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Arigato Sushi & Grill": {
+  "lat": 51.38469,
+  "lng": 5.441091,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:De Hut van Mie Pils": {
+  "lat": 51.390611,
+  "lng": 5.505101,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Meester Keeman": {
+  "lat": 51.386867,
+  "lng": 5.443226,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Brasserie 't Stationskoffiehuis": {
+  "lat": 51.39201,
+  "lng": 5.459918,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Carpe Diem": {
+  "lat": 51.386393,
+  "lng": 5.446248,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Carpe Diem mode": {
+  "lat": 51.386393,
+  "lng": 5.446248,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Snackbar De Mert": {
+  "lat": 51.386316,
+  "lng": 5.444367,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Lunchroom Hof 7": {
+  "lat": 51.395384,
+  "lng": 5.475283,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:De Leemer Hoef": {
+  "lat": 51.404908,
+  "lng": 5.474303,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:'t Brabants Genot": {
+  "lat": 51.374124,
+  "lng": 5.449096,
+  "bron": "OpenStreetMap"
+ },
+ "voorziening:Kruidvat De Bus": {
+  "lat": 51.386815,
+  "lng": 5.445826,
+  "bron": "OpenStreetMap"
+ }
+}

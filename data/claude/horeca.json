@@ -1,0 +1,191 @@
+[
+ {
+  "id": "h01",
+  "naam": "Herberg 't Loon",
+  "categorie": "cafe",
+  "kern": "Waalre",
+  "adres": "Loonderweg 44",
+  "lat": 51.3800239,
+  "lng": 5.4425828
+ },
+ {
+  "id": "h02",
+  "naam": "'t Brabants Genot",
+  "categorie": "restaurant",
+  "kern": "Waalre",
+  "adres": "Heikantstraat 23",
+  "lat": 51.374533,
+  "lng": 5.4478228
+ },
+ {
+  "id": "h03",
+  "naam": "De Leemer Hoef",
+  "categorie": "restaurant",
+  "kern": "Aalst",
+  "adres": "Gestelsestraat 102",
+  "lat": 51.4049083,
+  "lng": 5.4743028
+ },
+ {
+  "id": "h04",
+  "naam": "De Volmolen",
+  "categorie": "cafe",
+  "kern": "Riethoven (grens Waalre)",
+  "adres": "Volmolenweg 1",
+  "lat": 51.3814,
+  "lng": 5.421
+ },
+ {
+  "id": "h05",
+  "naam": "Café Daan",
+  "categorie": "cafe",
+  "kern": "Aalst",
+  "adres": "Den Hof 132",
+  "lat": 51.3958232,
+  "lng": 5.4764844
+ },
+ {
+  "id": "h06",
+  "naam": "Hut van Mie Pils",
+  "categorie": "cafe",
+  "kern": "Aalst · Groote Heide",
+  "adres": "Leenderweg 1",
+  "lat": 51.3906106,
+  "lng": 5.5051013
+ },
+ {
+  "id": "h07",
+  "naam": "'t Stationskoffiehuis",
+  "categorie": "cafe",
+  "kern": "Aalst",
+  "adres": "Willibrorduslaan 137a",
+  "lat": 51.3920096,
+  "lng": 5.4599184
+ },
+ {
+  "id": "h08",
+  "naam": "Meester Keeman",
+  "categorie": "restaurant",
+  "kern": "Waalre",
+  "adres": "Markt 21",
+  "lat": 51.3868674,
+  "lng": 5.4432262
+ },
+ {
+  "id": "h09",
+  "naam": "Lugar",
+  "categorie": "restaurant",
+  "kern": "Aalst",
+  "adres": "Gestelsestraat 2",
+  "lat": 51.3975153,
+  "lng": 5.4770373
+ },
+ {
+  "id": "h10",
+  "naam": "De Treeswijkhoeve",
+  "categorie": "restaurant",
+  "kern": "Waalre",
+  "adres": "Valkenswaardseweg 14",
+  "lat": 51.3727628,
+  "lng": 5.467041
+ },
+ {
+  "id": "h11",
+  "naam": "Mr Chang",
+  "categorie": "restaurant",
+  "kern": "Aalst",
+  "adres": "Den Hof 150",
+  "lat": 51.3956572,
+  "lng": 5.4757238
+ },
+ {
+  "id": "h12",
+  "naam": "Brasserie Hoom",
+  "categorie": "cafe",
+  "kern": "Aalst",
+  "adres": "Den Hof 98",
+  "lat": 51.3952125,
+  "lng": 5.4761584
+ },
+ {
+  "id": "h13",
+  "naam": "De Oude Toren",
+  "categorie": "cafe",
+  "kern": "Waalre",
+  "adres": "Oude Torenstraat 8",
+  "lat": 51.3874313,
+  "lng": 5.4418043
+ },
+ {
+  "id": "h14",
+  "naam": "Olympia",
+  "categorie": "restaurant",
+  "kern": "Aalst",
+  "adres": "Den Hof 134",
+  "lat": 51.3957877,
+  "lng": 5.476427
+ },
+ {
+  "id": "h15",
+  "naam": "Lunchroom Hof 7",
+  "categorie": "snack",
+  "kern": "Aalst",
+  "adres": "Den Hof 7",
+  "lat": 51.3953843,
+  "lng": 5.4752834
+ },
+ {
+  "id": "h16",
+  "naam": "Mimo's",
+  "categorie": "snack",
+  "kern": "Aalst",
+  "adres": "Eindhovenseweg 48",
+  "lat": 51.3950237,
+  "lng": 5.4765836
+ },
+ {
+  "id": "h17",
+  "naam": "Sint Maria Pizzeria",
+  "categorie": "restaurant",
+  "kern": "Aalst",
+  "adres": "Hortensialaan 12",
+  "lat": 51.4000675,
+  "lng": 5.4698911
+ },
+ {
+  "id": "h18",
+  "naam": "Cafetaria Van der Heijden",
+  "categorie": "snack",
+  "kern": "Aalst",
+  "adres": "Den Hof 142",
+  "lat": 51.3956275,
+  "lng": 5.476157
+ },
+ {
+  "id": "h19",
+  "naam": "Lotus Garden",
+  "categorie": "restaurant",
+  "kern": "Aalst",
+  "adres": "Hortensialaan 10",
+  "lat": 51.4002063,
+  "lng": 5.4696927
+ },
+ {
+  "id": "h20",
+  "naam": "De Bakkerij Waalre",
+  "categorie": "snack",
+  "kern": "Waalre",
+  "adres": "De Bus 39",
+  "lat": 51.386904,
+  "lng": 5.445776
+ },
+ {
+  "id": "h21",
+  "naam": "Winkelcafé Carpe Diem",
+  "categorie": "cafe",
+  "kern": "Waalre",
+  "adres": "Willibrorduslaan 14",
+  "lat": 51.386393,
+  "lng": 5.446248
+ }
+]

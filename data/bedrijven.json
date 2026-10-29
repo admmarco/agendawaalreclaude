@@ -1,0 +1,608 @@
+{
+  "checked": "2026-10-29",
+  "items": [
+    {
+      "name": "Drukkerij Spapens",
+      "sector": "IT & media",
+      "description": "Drukkerij.",
+      "address": "Van Dijklaan 29, 5581WG Waalre",
+      "phone": "",
+      "email": "info@drukkerijspapens.nl",
+      "url": "https://drukkerijspapens.nl"
+    },
+    {
+      "name": "Aalst-Waalre APK",
+      "sector": "auto & fiets",
+      "description": "APK-keuringsstation.",
+      "address": "Gestelsestraat 48, 5582HJ Waalre",
+      "phone": "+31619094491",
+      "email": "",
+      "url": "https://www.aalstwaalreapk.nl/"
+    },
+    {
+      "name": "Azzuri",
+      "sector": "auto & fiets",
+      "description": "Fietsenwinkel.",
+      "address": "De Bus 39d, 5581GP Waalre",
+      "phone": "040-2218054",
+      "email": "info@azzuriwielersport.nl",
+      "url": "https://www.azzuriwielersport.nl/"
+    },
+    {
+      "name": "OK",
+      "sector": "auto & fiets",
+      "description": "Tankstation OK De Voldijn.",
+      "address": "Burgemeester Mollaan 1a, 5582CJ Waalre",
+      "phone": "0850772881",
+      "email": "contact@ok.nl",
+      "url": "https://ok.nl/tankstations/ok-de-voldijn/"
+    },
+    {
+      "name": "BrainWash",
+      "sector": "beauty & kapper",
+      "description": "Kapsalon.",
+      "address": "Den Hof 27, 5582JZ Waalre",
+      "phone": "040-2212351",
+      "email": "waalrecentrum78@brainwash-kappers.nl",
+      "url": "https://www.brainwash-kappers.nl/salons/brainwash-waalre"
+    },
+    {
+      "name": "House of Hair no.1 / Q kappers",
+      "sector": "beauty & kapper",
+      "description": "Kapsalon.",
+      "address": "Willibrorduslaan 34, 5581GE Waalre",
+      "phone": "040-221 23 86",
+      "email": "vragen@houseofhair1.nl",
+      "url": "https://houseofhair1.nl/"
+    },
+    {
+      "name": "John Rengers",
+      "sector": "beauty & kapper",
+      "description": "Kapsalon.",
+      "address": "Gestelsestraat 15, 5582HE Waalre",
+      "phone": "",
+      "email": "info@kapsalon-rengers.nl",
+      "url": "https://www.kapsalon-rengers.nl/"
+    },
+    {
+      "name": "Sounds of Beauty",
+      "sector": "beauty & kapper",
+      "description": "Schoonheidssalon.",
+      "address": "Willibrorduslaan 8, 5581GE Waalre",
+      "phone": "06 39105038",
+      "email": "",
+      "url": "https://sounds-of-beauty.mytreatwell.nl/"
+    },
+    {
+      "name": "Tourmaline",
+      "sector": "beauty & kapper",
+      "description": "Kapsalon.",
+      "address": "Den Hof 2, 5582JZ Waalre",
+      "phone": "",
+      "email": "info@tourmaline-hbw.nl",
+      "url": "https://www.tourmaline-hbw.nl/"
+    },
+    {
+      "name": "Vintage Kappers",
+      "sector": "beauty & kapper",
+      "description": "Kapsalon.",
+      "address": "Eindhovenseweg 64, 5582HV Waalre",
+      "phone": "",
+      "email": "aalst-waalre@vintagekappers.nl",
+      "url": "https://www.vintagekappers.nl/kapperszaken/aalst-waalre/"
+    },
+    {
+      "name": "Aannemersbedrijf Willems",
+      "sector": "bouw & klussen",
+      "description": "Aannemer voor verbouw, onderhoud en renovatie, ook badkamers, toiletten en keukens.",
+      "address": "Goudbergstraat 1-b, 5583 BA Waalre",
+      "phone": "040-2212335",
+      "email": "info@aannemersbedrijfwillems.nl",
+      "url": "https://aannemersbedrijfwillems.nl/"
+    },
+    {
+      "name": "Hoveniersbedrijf Thijs van de Moosdijk",
+      "sector": "bouw & klussen",
+      "description": "Hovenier voor tuinaanleg, onderhoud en tuinontwerp.",
+      "address": "Jan van Scorellaan 19, 5581 JN Waalre",
+      "phone": "06-33207848",
+      "email": "info@thijsvandemoosdijk.nl",
+      "url": "https://thijsvandemoosdijk.nl/"
+    },
+    {
+      "name": "Timmerfabriek Velter",
+      "sector": "bouw & klussen",
+      "description": "Timmerfabriek voor houten kozijnen, ramen, deuren en trappen, ook voor renovatie.",
+      "address": "Bolksheuvel 40a, 5581 HN Waalre",
+      "phone": "040 222 03 76",
+      "email": "info@timmerfabriekvelter.nl",
+      "url": "https://timmerfabriekvelter.nl/"
+    },
+    {
+      "name": "Action",
+      "sector": "detailhandel",
+      "description": "Winkel van Action.",
+      "address": "Burgemeester Mollaan 52, 5582CK Waalre",
+      "phone": "",
+      "email": "",
+      "url": "https://www.action.com/nl-nl/winkels/waalre-burgemeester-mollaan/"
+    },
+    {
+      "name": "Aris Zwarthoed De Viswinkel",
+      "sector": "detailhandel",
+      "description": "Viswinkel.",
+      "address": "Raadhuisstraat 12a, 5582JD Waalre",
+      "phone": "0402215089",
+      "email": "info@zwarthoedviswinkel.nl",
+      "url": "https://zwarthoedviswinkel.nl/"
+    },
+    {
+      "name": "Bloemerie Den Hof",
+      "sector": "detailhandel",
+      "description": "Bloemist.",
+      "address": "Den Hof 9, 5582JZ Waalre",
+      "phone": "+31 402220455",
+      "email": "info@bloemeriedenhof.nl",
+      "url": "https://www.bloemeriedenhof.nl/"
+    },
+    {
+      "name": "By PourToi",
+      "sector": "detailhandel",
+      "description": "Mode en accessoires.",
+      "address": "Willibrorduslaan 18, 5581 GE Waalre",
+      "phone": "",
+      "email": "info@bypourtoi.nl",
+      "url": "https://bypourtoi.nl/"
+    },
+    {
+      "name": "De Paskamer",
+      "sector": "detailhandel",
+      "description": "Kledingwinkel.",
+      "address": "Den Hof 33, 5582JZ Waalre",
+      "phone": "",
+      "email": "depaskamer@outlook.com",
+      "url": "https://www.depaskamer.com"
+    },
+    {
+      "name": "G&W GezondheidsDrogist Nancy",
+      "sector": "detailhandel",
+      "description": "Gezondheidswinkel.",
+      "address": "De Bus 36a, 5581GP Waalre",
+      "phone": "",
+      "email": "",
+      "url": "https://www.gezondheidswinkel.nl/vestigingen/waalre-gw-gezondheidswinkel-nancy"
+    },
+    {
+      "name": "Kringloop de Kempen",
+      "sector": "detailhandel",
+      "description": "Kringloopwinkel.",
+      "address": "Burgemeester Mollaan 50, 5582CK Waalre",
+      "phone": "",
+      "email": "transport@kringloopdekempen.nl",
+      "url": "https://www.kringloopdekempen.nl/algemene-informatie/winkels/waalre/"
+    },
+    {
+      "name": "Lingerie Trudy",
+      "sector": "detailhandel",
+      "description": "Lingeriewinkel.",
+      "address": "Den Hof 152, 5582JZ Waalre",
+      "phone": "",
+      "email": "",
+      "url": "https://lingerietrudy.nl/"
+    },
+    {
+      "name": "Mantano",
+      "sector": "detailhandel",
+      "description": "Kledingwinkel.",
+      "address": "Willibrorduslaan 14, 5581GE Waalre",
+      "phone": "",
+      "email": "webshop@mantano.nl",
+      "url": "https://www.mantano.nl/"
+    },
+    {
+      "name": "Mitra",
+      "sector": "detailhandel",
+      "description": "Slijterij.",
+      "address": "Den Hof 64, 5582JZ Waalre",
+      "phone": "040-2215777",
+      "email": "",
+      "url": "https://www.mitra.nl/winkels/mitra-waalre-schuurmans-den-hof"
+    },
+    {
+      "name": "Navidarte",
+      "sector": "detailhandel",
+      "description": "Woonwinkel.",
+      "address": "Den Hof 84, 5582JZ Waalre",
+      "phone": "",
+      "email": "info@navidarte.nl",
+      "url": "https://navidarte.nl/"
+    },
+    {
+      "name": "Rudolf Vermeulen Bonbons",
+      "sector": "detailhandel",
+      "description": "Rudolf Vermeulen is uw bonbon- en chocoladespecialist. Onze ervaring vormt de ideale basis voor heerlijke bonbons van witte, pure en melkchocolade.",
+      "address": "Willibrorduslaan 1, 5581GA Waalre",
+      "phone": "",
+      "email": "",
+      "url": "https://rudolfvermeulenbonbons.nl/"
+    },
+    {
+      "name": "Stomerij van Asten",
+      "sector": "detailhandel",
+      "description": "Stomerij en winkel voor handwerk en breibenodigdheden.",
+      "address": "Burgemeester Uijenstraat 13, 5581JC Waalre",
+      "phone": "040-2215623",
+      "email": "",
+      "url": "https://handwerkwinkelwaalre.nl/"
+    },
+    {
+      "name": "van Hardeveld Optiek bij Bas",
+      "sector": "detailhandel",
+      "description": "Opticien.",
+      "address": "Willibrorduslaan 52a, 5581GG Waalre",
+      "phone": "0402220494",
+      "email": "info@vanhardeveldoptiek.nl",
+      "url": "https://vanhardeveldoptiek.nl/"
+    },
+    {
+      "name": "van Hooff",
+      "sector": "detailhandel",
+      "description": "Juwelier.",
+      "address": "Den Hof 1, 5582JZ Waalre",
+      "phone": "",
+      "email": "",
+      "url": "https://juweliervanhooffwaalre.nl"
+    },
+    {
+      "name": "Zorgwinkel De Bus",
+      "sector": "detailhandel",
+      "description": "Winkel voor zorghulpmiddelen.",
+      "address": "De Bus 36b, 5581GP Waalre",
+      "phone": "040 368 82 75",
+      "email": "info@zorgwinkeldebus.nl",
+      "url": "https://www.zorgwinkeldebus.nl/"
+    },
+    {
+      "name": "Duisenburgh",
+      "sector": "financieel/juridisch",
+      "description": "Fiscaal advies, vermogensadvies en financiële planning.",
+      "address": "Eindhovenseweg 67, 5582 HR Waalre",
+      "phone": "040 222 21 12",
+      "email": "info@duisenburgh.nl",
+      "url": "https://www.duisenburgh.nl/"
+    },
+    {
+      "name": "Financieel Advieshuys | Financieel Zeker",
+      "sector": "financieel/juridisch",
+      "description": "Financieel advies.",
+      "address": "Den Hof 84a, 5582JZ Waalre",
+      "phone": "",
+      "email": "info@faw.nu",
+      "url": "https://www.faw.nu/"
+    },
+    {
+      "name": "Versmissen Adviesgroep",
+      "sector": "financieel/juridisch",
+      "description": "Verzekeringen en hypotheken.",
+      "address": "Willibrorduslaan 36, 5581GE Waalre",
+      "phone": "+31402215555",
+      "email": "info@versmissenadviesgroep.nl",
+      "url": "https://www.versmissenadviesgroep.nl/"
+    },
+    {
+      "name": "Bastion Hotel Eindhoven",
+      "sector": "horeca",
+      "description": "Hotel aan de Laan van Diepenvoorde.",
+      "address": "Laan van Diepenvoorde 30, 5582LA Waalre",
+      "phone": "+3140-2092055",
+      "email": "",
+      "url": "https://www.bastionhotels.com/nl-nl/hotels/hotel-eindhoven"
+    },
+    {
+      "name": "Café Herbergh 't Loon",
+      "sector": "horeca",
+      "description": "Herberg en restaurant.",
+      "address": "Loonderweg 44, 5581VG Waalre",
+      "phone": "",
+      "email": "info@herbergtloon.nl",
+      "url": "https://www.herbergtloon.nl/"
+    },
+    {
+      "name": "De Laarhoeve",
+      "sector": "horeca",
+      "description": "Logies en winkel op het erf.",
+      "address": "Laarstraat 63, 5582HL Waalre",
+      "phone": "//0402212480",
+      "email": "",
+      "url": "https://laarhoeve.nl/"
+    },
+    {
+      "name": "De Treeswijkhoeve",
+      "sector": "horeca",
+      "description": "Restaurant.",
+      "address": "Valkenswaardseweg 14, 5582VB Waalre",
+      "phone": "",
+      "email": "info@treeswijkhoeve.nl",
+      "url": "https://treeswijkhoeve.nl"
+    },
+    {
+      "name": "Eden",
+      "sector": "horeca",
+      "description": "Restaurant.",
+      "address": "Oude Torenstraat 6, 5581BJ Waalre",
+      "phone": "",
+      "email": "info@restaurant-eden.nl",
+      "url": "https://restaurant-eden.nl"
+    },
+    {
+      "name": "Grieks Restaurant OLYMPIA",
+      "sector": "horeca",
+      "description": "Grieks restaurant.",
+      "address": "Den Hof 134, 5582JZ Waalre",
+      "phone": "",
+      "email": "",
+      "url": "https://www.olympiawaalre.nl"
+    },
+    {
+      "name": "Lotus Garden",
+      "sector": "horeca",
+      "description": "Restaurant.",
+      "address": "Hortensialaan 10, 5582CL Waalre",
+      "phone": "0402213989",
+      "email": "contact@lotusgardenwaalre.nl",
+      "url": "https://www.lotusgardenwaalre.nl/"
+    },
+    {
+      "name": "Lugar",
+      "sector": "horeca",
+      "description": "Restaurant.",
+      "address": "Gestelsestraat 2, 5582HH Waalre",
+      "phone": "",
+      "email": "",
+      "url": "https://www.lugar.nl/"
+    },
+    {
+      "name": "Mimo's",
+      "sector": "horeca",
+      "description": "Restaurant.",
+      "address": "Eindhovenseweg 48, 5582HT Waalre",
+      "phone": "",
+      "email": "bestelling@mimo-s.nl",
+      "url": "https://www.mimo-s.nl"
+    },
+    {
+      "name": "Mr.Chang",
+      "sector": "horeca",
+      "description": "Restaurant.",
+      "address": "Den Hof 150, 5582JZ Waalre",
+      "phone": "0031402217268",
+      "email": "contact@mrchang.nl",
+      "url": "https://www.mrchang.nl/"
+    },
+    {
+      "name": "Sint Maria",
+      "sector": "horeca",
+      "description": "Restaurant.",
+      "address": "Hortensialaan 12, 5582CL Waalre",
+      "phone": "0402213650",
+      "email": "info@sintmaria.nl",
+      "url": "https://www.sintmaria.nl"
+    },
+    {
+      "name": "InstallBrabant",
+      "sector": "installatie",
+      "description": "Installatiebedrijf voor verwarming, ventilatie en warmtepompen.",
+      "address": "Raadhuisstraat 70, 5582 JG Waalre",
+      "phone": "040-2420823",
+      "email": "info@installbrabant.nl",
+      "url": "https://www.installbrabant.nl/"
+    },
+    {
+      "name": "Koolen Koeling",
+      "sector": "installatie",
+      "description": "Koeltechnisch installatiebedrijf.",
+      "address": "Resedalaan 42, 5582 AB Waalre",
+      "phone": "040 221 3357",
+      "email": "contact@koolenkoeling.nl",
+      "url": "https://koolenkoeling.nl/"
+    },
+    {
+      "name": "Budgetspouwisolatie",
+      "sector": "installatie",
+      "description": "Isolatie van spouwmuren, bodem en platte daken.",
+      "address": "Raadhuisstraat 8, 5582 JA Waalre",
+      "phone": "088-0101400",
+      "email": "info@nuisoleren.nl",
+      "url": "https://budgetspouwisolatie.nl/"
+    },
+    {
+      "name": "P. Willems Elektrotechniek",
+      "sector": "installatie",
+      "description": "Elektrotechnisch installatiebedrijf voor aanleg en onderhoud, ook laadpunten.",
+      "address": "Petunialaan 1A, 5582 HA Waalre",
+      "phone": "040 22 20 261",
+      "email": "info@pwillems.nl",
+      "url": "https://www.pwillems.nl/"
+    },
+    {
+      "name": "Aalsterbos",
+      "sector": "onderwijs & coaching",
+      "description": "Welkom bij kinderdagverblijf Aalsterbos in Waalre, waar jouw kind in een veilige, rustige omgeving ontdekt,…",
+      "address": "Maximiliaanlaan 1, 5583XG Waalre",
+      "phone": "0402213498",
+      "email": "",
+      "url": "https://www.atalenta.nl/aalsterbos/"
+    },
+    {
+      "name": "Bostuin",
+      "sector": "onderwijs & coaching",
+      "description": "Welkom bij avonturen BSO Bostuin in Aalst-Waalre, waar kinderen avonturen beleven, vuile knieën krijgen…",
+      "address": "Heistraat 90, 5581VW Waalre",
+      "phone": "0613062408",
+      "email": "",
+      "url": "https://www.atalenta.nl/bostuin/"
+    },
+    {
+      "name": "De Drijfveer",
+      "sector": "onderwijs & coaching",
+      "description": "Welkom bij basisschool Drijfveer in Waalre, waar leren verder gaat dan boeken. Ontdek een plek vol…",
+      "address": "Willem Smuldersplein 5, 5582JJ Waalre",
+      "phone": "0402233020",
+      "email": "",
+      "url": "https://www.atalenta.nl/drijfveer/"
+    },
+    {
+      "name": "De Wilderen",
+      "sector": "onderwijs & coaching",
+      "description": "School.",
+      "address": "Meester Slootsweg 1a, 5581AS Waalre",
+      "phone": "0403045250",
+      "email": "",
+      "url": "https://www.atalenta.nl/wilderen/"
+    },
+    {
+      "name": "Dondersteentjes",
+      "sector": "onderwijs & coaching",
+      "description": "Welkom bij kinderopvang Dondersteentjes in Waalre, waar kinderen op hun eigen tempo ontdekken, vragen stell…",
+      "address": "Willem Smuldersplein 4a, 5582JJ Waalre",
+      "phone": "0402214504",
+      "email": "",
+      "url": "https://www.atalenta.nl/dondersteentjes/"
+    },
+    {
+      "name": "Ekenrooi",
+      "sector": "onderwijs & coaching",
+      "description": "Basisschool.",
+      "address": "Maximiliaanlaan 1, 5583XG Waalre",
+      "phone": "040-2213644",
+      "email": "directieobsekenrooi@fluksmail.nl",
+      "url": "https://obsekenrooi.nl"
+    },
+    {
+      "name": "Rijschool Heezen",
+      "sector": "onderwijs & coaching",
+      "description": "Rijschool.",
+      "address": "Kerkhoflaan 1b, 5582JH Waalre",
+      "phone": "0402220219",
+      "email": "",
+      "url": "https://rijschoolheezen.nl/"
+    },
+    {
+      "name": "Wilderen",
+      "sector": "onderwijs & coaching",
+      "description": "Childcare.",
+      "address": "Meester Slootsweg 1, 5581AS Waalre",
+      "phone": "0403045250",
+      "email": "",
+      "url": "https://www.atalenta.nl/wilderen/"
+    },
+    {
+      "name": "'t Hazzo",
+      "sector": "overig",
+      "description": "Sporthal.",
+      "address": "Prunellalaan 7, 5582HB Waalre",
+      "phone": "",
+      "email": "info@sporthalbeheerwaalre.nl",
+      "url": "https://www.sporthalbeheerwaalre.nl/"
+    },
+    {
+      "name": "Cardo Waalre",
+      "sector": "overig",
+      "description": "Sportcentrum.",
+      "address": "Van Dijklaan 5, 5581WG Waalre",
+      "phone": "0402538040",
+      "email": "administratie@cardo.nl",
+      "url": "https://www.cardo.nl"
+    },
+    {
+      "name": "Vivolta",
+      "sector": "overig",
+      "description": "Bedrijf in medische hulpmiddelen (electrospinning).",
+      "address": "Van Dijklaan 6, 5581WG Waalre",
+      "phone": "18002940126",
+      "email": "info@vivolta.com",
+      "url": "https://www.vivolta.com/"
+    },
+    {
+      "name": "Atalenta",
+      "sector": "zakelijke dienstverlening",
+      "description": "Stichting voor kinderopvang en onderwijs.",
+      "address": "Laan van Diepenvoorde 10, 5582LA Waalre",
+      "phone": "0031403400214",
+      "email": "info@atalenta.nl",
+      "url": "https://www.atalenta.nl"
+    },
+    {
+      "name": "Dataplus",
+      "sector": "zakelijke dienstverlening",
+      "description": "Verhuur van woonruimte.",
+      "address": "Van Dijklaan 7, 5581WG Waalre",
+      "phone": "",
+      "email": "",
+      "url": "https://www.dataplus.nl/"
+    },
+    {
+      "name": "Verhagen Makelaars",
+      "sector": "zakelijke dienstverlening",
+      "description": "Makelaar.",
+      "address": "Willibrorduslaan 27, 5581GA Waalre",
+      "phone": "040-2212291",
+      "email": "info@verhagenmakelaars.nl",
+      "url": "https://www.verhagenmakelaars.nl/"
+    },
+    {
+      "name": "Vos Makelaars",
+      "sector": "zakelijke dienstverlening",
+      "description": "Makelaar.",
+      "address": "Willibrorduslaan 50a, 5581GG Waalre",
+      "phone": "040-2823790",
+      "email": "info@vosmakelaars.nl",
+      "url": "https://www.vosmakelaars.nl/"
+    },
+    {
+      "name": "Circles Waalre",
+      "sector": "zorg & welzijn",
+      "description": "Sporten met begeleiding.",
+      "address": "Markt 5, 5581GK Waalre",
+      "phone": "",
+      "email": "circleswaalre@gmail.com",
+      "url": "https://circleswaalre.nl/"
+    },
+    {
+      "name": "Dierenkliniek Waalre",
+      "sector": "zorg & welzijn",
+      "description": "Dierenkliniek.",
+      "address": "Prunellalaan 2, 5582HB Waalre",
+      "phone": "040 - 221 50 66",
+      "email": "",
+      "url": "https://www.dierenkliniekwaalre.nl"
+    },
+    {
+      "name": "Huisartsen Medisch Centrum Aalst",
+      "sector": "zorg & welzijn",
+      "description": "Huisartsenpraktijk in Medisch Centrum Aalst.",
+      "address": "Raadhuisstraat 6B, 5582 JD Waalre",
+      "phone": "040 2212960",
+      "email": "",
+      "url": "https://www.medischcentrumaalst.nl/"
+    },
+    {
+      "name": "Orthocenter",
+      "sector": "zorg & welzijn",
+      "description": "Orthodontiepraktijk.",
+      "address": "Eindhovenseweg 77, 5582HR Waalre",
+      "phone": "040-2215079",
+      "email": "",
+      "url": "https://www.orthocenter.nl/onze-orthodontiepraktijken/waalre/"
+    },
+    {
+      "name": "Residentie Haelst",
+      "sector": "zorg & welzijn",
+      "description": "Zorgresidentie.",
+      "address": "De Leesakker 24, 5582ZB Waalre",
+      "phone": "085 - 808 7051",
+      "email": "",
+      "url": "https://www.rosorum.nl/residenties/haelst/"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Jaarkalender 2027 · Agenda Waalre</title>
+  <meta name="aw-title-nl" content="Jaarkalender 2027 · Agenda Waalre">
+  <meta name="aw-title-en" content="Year calendar 2027 · Agenda Waalre">
+  <meta name="description" content="Terugkerende evenementen in Aalst en Waalre in 2027: carnaval, Koningsdag, braderie, Kempener Pop en meer.">
+  <meta name="theme-color" content="#1f3d2f">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=Source+Sans+3:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body class="">
+  <a class="skip" href="#inhoud" data-i18n="skip">Direct naar de inhoud</a>
+
+  <header class="site-head">
+    <div class="wrap site-head__inner">
+      <a class="brand" href="index.html" data-nav="index.html">
+          <svg class="emblem" viewBox="0 0 64 64" aria-hidden="true" focusable="false">
+            <circle cx="32" cy="32" r="30" fill="none" stroke="currentColor" stroke-width="1.5"/>
+            <circle cx="32" cy="32" r="26.5" fill="none" stroke="currentColor" stroke-width=".75" stroke-dasharray="1.5 2.5"/>
+            <path d="M32 12 l4.5 9 h-9 z" fill="currentColor"/>
+            <rect x="28.5" y="21" width="7" height="13" fill="currentColor"/>
+            <rect x="31" y="24" width="2" height="4" rx="1" fill="#f6f0e4"/>
+            <path d="M16 38 h32" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+            <path d="M21 38 l-2 12 M43 38 l2 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            <path d="M22 31.5 h5 v3.2 a2.5 2.5 0 0 1 -5 0 z" fill="#c8643b"/>
+            <path d="M37 31.5 h5 v3.2 a2.5 2.5 0 0 1 -5 0 z" fill="#c8643b"/>
+          </svg>
+        <span>
+          <span class="brand__name">Agenda Waalre</span>
+          <span class="brand__tag" data-i18n="tag">Claude-versie</span>
+        </span>
+      </a>
+      <nav class="nav" aria-label="Hoofdmenu" data-i18n-aria="nav.label">
+        <ul class="nav__list">
+          <li><a class="nav__link" href="index.html" data-nav="index.html" data-i18n="nav.week">Deze week</a></li>
+          <li><a class="nav__link" href="kaart.html" data-nav="kaart.html" data-i18n="nav.kaart">Kaart</a></li>
+          <li><a class="nav__link" href="rondleidingen.html" data-nav="rondleidingen.html" data-i18n="nav.routes">Rondleidingen</a></li>
+          <li><a class="nav__link" href="jaarkalender.html" data-nav="jaarkalender.html" data-i18n="nav.jaar" aria-current="page">Jaarkalender</a></li>
+        </ul>
+      </nav>
+      <div class="lang" role="group" aria-label="Taal / Language">
+        <button type="button" class="lang__btn" data-lang="nl" aria-pressed="true" lang="nl" aria-label="Nederlands">NL</button>
+        <button type="button" class="lang__btn" data-lang="en" aria-pressed="false" lang="en" aria-label="English">EN</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="inhoud" tabindex="-1">
+    <div class="wrap">
+      <header class="page-head">
+        <p class="kicker reveal" data-i18n="j.kicker">Wat er elk jaar gebeurt</p>
+        <h1 class="page-title reveal-2"><span data-i18n="j.title">Jaarkalender</span> <em>2027</em></h1>
+        <p class="lede reveal-3" data-i18n="j.lede">Van nieuwjaarsreceptie tot kerstviering: de vaste momenten waarop het hele dorp elkaar tegenkomt.</p>
+        <div class="year-note reveal-3">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M12 8v.01M11 12h1v5h1"/></svg>
+          <p data-i18n="j.note">Bron: Activiteitenlijst Aalst Waalre 2027. Data worden aangevuld zodra ze bekend zijn.</p>
+        </div>
+        <div class="badges-legend" id="badges-legend"></div>
+      </header>
+      <div class="months" id="months"><p class="status" data-i18n="loading">Gegevens worden geladen…</p></div>
+    </div>
+  </main>
+
+  <footer class="site-foot">
+    <div class="wrap site-foot__inner">
+      <p><strong data-i18n="foot.independent">Onafhankelijk overzicht, geen officiële gemeentelijke site.</strong></p>
+      <p><span data-i18n="foot.full">Volledige agenda:</span> <a href="https://agenda-waalre.vercel.app" target="_blank" rel="noopener">agenda-waalre.vercel.app</a></p>
+      <p id="foot-data">Gegevens: agenda-Waalre · kaart © OpenStreetMap-bijdragers</p>
+    </div>
+  </footer>
+
+  <script src="assets/common.js" defer></script>
+  <script src="assets/jaar.js" defer></script>
+</body>
+</html>

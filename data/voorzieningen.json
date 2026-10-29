@@ -1,0 +1,515 @@
+{
+  "checked": "2026-10-29",
+  "items": [
+    {
+      "category": "zorg",
+      "subcategory": "huisarts",
+      "name": "Huisartsenpraktijk Lankhorst",
+      "description": "Huisartsenpraktijk in Waalre. Op werkdagen telefonisch bereikbaar van 8.00 tot 17.00 uur.",
+      "address": "Bergstraat 23, 5581 BL Waalre",
+      "phone": "040 - 2212701",
+      "url": "https://www.huisartswaalre.nl/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "apotheek",
+      "name": "Apotheek Aalst-Waalre",
+      "description": "Apotheek in Aalst. Werkdagen 9.00–12.30 en 13.15–17.30. Zaterdag, zondag en feestdagen gesloten. Er is een 24-uursafhaalautomaat.",
+      "address": "Raadhuisstraat 6a, 5582 JD Waalre",
+      "phone": "040 222 14 14",
+      "url": "https://apothekenwaalre.nl/",
+      "place": "Aalst"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "apotheek",
+      "name": "Apotheek Waalre-Dorp",
+      "description": "Apotheek in Waalre-dorp. Werkdagen 9.00–12.30 en 13.15–17.30. Zaterdag, zondag en feestdagen gesloten. Er is een 24-uursafhaalautomaat.",
+      "address": "Sportlaan 3, 5581 BZ Waalre",
+      "phone": "040 222 27 57",
+      "url": "https://apothekenwaalre.nl/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "tandarts",
+      "name": "Tandartspraktijk R.A. van Hek",
+      "description": "Tandartspraktijk. Maandag tot en met vrijdag 8.00 tot 17.00 uur.",
+      "address": "Bergstraat 12, 5581 BM Waalre",
+      "phone": "+31 (0)40 2222001",
+      "url": "https://tandartspraktijkvanhek.nl/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "fysiotherapie",
+      "name": "B-Fysic Knegt & Bungelaar",
+      "description": "Fysiotherapie op drie adressen in Waalre en Aalst: manuele therapie, kinder- en sportfysiotherapie, ergotherapie.",
+      "address": "Michiel de Ruyterstraat 28, Aalst-Waalre; Raadhuisstraat 6, Aalst-Waalre; Sportlaan 2, Waalre",
+      "phone": "085 2104910",
+      "url": "https://www.b-fysic.nl/locaties/waalre/",
+      "place": "Waalre en Aalst"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "fysiotherapie",
+      "name": "Fysiotherapie Beusen-Foudraine",
+      "description": "Fysiotherapiepraktijk in Aalst. De site noemt ook een nevenlocatie in Soerendonk, buiten de gemeente.",
+      "address": "Anna Paulownalaan 2, 5583 BE Waalre",
+      "phone": "040 22 14 396",
+      "url": "https://www.fysiowaalre.nl/",
+      "place": "Aalst"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "ziekenhuis",
+      "name": "Máxima MC, spoedeisende hulp Veldhoven",
+      "description": "Spoedeisende hulp, 24 uur geopend. Ongeveer 3,4 km hemelsbreed vanaf het gemeentehuis (Het Huis van Waalre), berekend uit OpenStreetMap-coördinaten. Bij een levensbedreigende klacht: bel 112. Anders eerst de huisarts of de huisartsenpost.",
+      "address": "De Run 4600, 5504 DB Veldhoven",
+      "phone": "040 888 8000",
+      "url": "https://www.mmc.nl/afdelingen/spoedeisende-hulp/",
+      "place": "Veldhoven"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "ziekenhuis",
+      "name": "Catharina Ziekenhuis, spoedeisende hulp",
+      "description": "Spoedeisende hulp in Eindhoven. Ongeveer 8,2 km hemelsbreed vanaf het gemeentehuis (Het Huis van Waalre), berekend uit OpenStreetMap-coördinaten. Alleen na verwijzing door huisarts of huisartsenpost, of per ambulance.",
+      "address": "Michelangelolaan 2, 5623 EJ Eindhoven",
+      "phone": "040 - 239 91 11",
+      "url": "https://www.catharinaziekenhuis.nl/afdelingen/spoedeisende-hulp-huisartsenpost/",
+      "place": "Eindhoven"
+    },
+    {
+      "category": "eten",
+      "subcategory": "lunchroom",
+      "name": "Brasserie Hoom",
+      "description": "Brasserie in Aalst voor koffie, lunch en diner. Maandag gesloten. Dinsdag tot en met zondag 11.30–21.30. De keuken sluit een uur eerder.",
+      "address": "Den Hof 98, Waalre",
+      "phone": "040-2223003",
+      "url": "https://www.brasseriehoom.nl/",
+      "place": "Aalst"
+    },
+    {
+      "category": "eten",
+      "subcategory": "café",
+      "name": "Tapperij De Oude Toren",
+      "description": "Dorpsbar en tapperij in Waalre-dorp, voor drinken, lunch en shared dining. Maandag en dinsdag gesloten.",
+      "address": "Oude Torenstraat 8, 5581 BJ Waalre",
+      "phone": "040 - 785 80 32",
+      "url": "https://oudetoren.nl/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "winkels",
+      "subcategory": "supermarkt",
+      "name": "Albert Heijn De Bus",
+      "description": "Supermarkt in Winkelcentrum De Bus. De gemeente noemt dit centrum bij de gehandicaptenparkeerplaatsen.",
+      "address": "De Bus 38, 5581 GP Waalre",
+      "phone": "040 2213754",
+      "url": "https://www.ah.nl/winkels/nederland/waalre/de-bus-38/8617",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "winkels",
+      "subcategory": "supermarkt",
+      "name": "Lidl De Bus",
+      "description": "Supermarkt in Winkelcentrum De Bus, naast de Albert Heijn.",
+      "address": "De Bus 4, 5581 GP Waalre",
+      "phone": "",
+      "url": "https://www.lidl.nl/s/nl-NL/winkel/waalre/de-bus-4/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "winkels",
+      "subcategory": "supermarkt",
+      "name": "Jumbo Aalst Waalre",
+      "description": "Supermarkt in Aalst.",
+      "address": "Hortensialaan 2, 5582 CL Aalst",
+      "phone": "0402064410",
+      "url": "https://www.jumbo.com/winkel/aalst/jumbo-aalst-waalre",
+      "place": "Aalst"
+    },
+    {
+      "category": "winkels",
+      "subcategory": "bakker",
+      "name": "Bakkerij Godfried de Vocht",
+      "description": "Bakker in Winkelcentrum Den Hof. De winkel in Aalst is op maandag gesloten. Op de site stond op de controledag dat de winkel open was.",
+      "address": "Den Hof 82, 5582 JZ Aalst/Waalre",
+      "phone": "040-2212280",
+      "url": "https://bakkerijdevocht.nl/",
+      "place": "Aalst"
+    },
+    {
+      "category": "winkels",
+      "subcategory": "slager",
+      "name": "Keurslager P. van Tongerloo",
+      "description": "Keurslager in Winkelcentrum Den Hof. Dinsdag tot en met vrijdag 8.30–18.00, zaterdag 8.00–16.00. Maandag en zondag gesloten.",
+      "address": "Den Hof 138, 5582 JZ Aalst/Waalre",
+      "phone": "0402222354",
+      "url": "https://vantongerloo.keurslager.nl/",
+      "place": "Aalst"
+    },
+    {
+      "category": "overig",
+      "subcategory": "tankstation",
+      "name": "Shell Waalre",
+      "description": "Tankstation, 24 uur per dag geopend. Er is een winkel en een wasstraat; de winkel heeft eigen tijden.",
+      "address": "Van Dijklaan 1, 5581 WG Waalre",
+      "phone": "+31 40 222 1400",
+      "url": "https://find.shell.com/nl/fuel/10055311-shell-waalre/nl_NL",
+      "place": "Waalre"
+    },
+    {
+      "category": "overig",
+      "subcategory": "bibliotheek",
+      "name": "Bibliotheek Waalre",
+      "description": "Bibliotheek in Het Huis van Waalre. Maandag, dinsdag, woensdag en vrijdag 10.00–17.00, donderdag 10.00–19.00, zaterdag 10.00–13.00. Zondag gesloten.",
+      "address": "Koningin Julianalaan 19, 5582 JV Waalre",
+      "phone": "040-2604260",
+      "url": "https://www.hethuisvanwaalre.nl/bibliotheek",
+      "place": "Aalst"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "huisarts",
+      "name": "Huisartsen Medisch Centrum Aalst",
+      "description": "Huisartsenpraktijk in Medisch Centrum Aalst. Telefoon 040 2212960. Spoed: dezelfde lijn, keuze 1. Recepten: keuze 3.",
+      "address": "Raadhuisstraat 6B, 5582 JD Waalre",
+      "phone": "040 2212960",
+      "url": "https://www.medischcentrumaalst.nl/",
+      "place": "Aalst"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "huisarts",
+      "name": "Huisartsenpraktijk van Sambeek",
+      "description": "Huisartsenpraktijk in Gezondheidscentrum Waalre-dorp (dr. Van Sambeek, dr. Geelen, dr. Denie). Werkdagen 08.00-17.00, spreekuur alleen op afspraak.",
+      "address": "Sportlaan 4, 5581 BZ Waalre",
+      "phone": "040-221 48 30",
+      "url": "https://vansambeek.praktijkinfo.nl/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "huisarts",
+      "name": "Huisartsenpraktijk Roelofsen",
+      "description": "Huisartsenpraktijk in Gezondheidscentrum Waalre-dorp. OpenStreetMap noemt Sportlaan 4 en markeert de praktijk niet als gesloten. Het centrum noemt de praktijk op zijn site. De eigen site reageerde op 29 oktober 2026 niet.",
+      "address": "Sportlaan 4, 5581 BZ Waalre",
+      "phone": "",
+      "url": "https://huisartsenpraktijkroelofsen.praktijkinfo.nl/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "tandarts",
+      "name": "Mondzorg Da Vinci",
+      "description": "Tandartspraktijk op de eerste verdieping van Medisch Centrum Aalst. Maandag tot en met donderdag 8.30–17.00, vrijdag gesloten.",
+      "address": "Raadhuisstraat 6, 5582 JD Waalre",
+      "phone": "040 - 2001010",
+      "url": "https://www.mondzorgdavinci.nl/medisch-centrum-aalst/",
+      "place": "Aalst"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "orthodontist",
+      "name": "Orthocenter Waalre",
+      "description": "Orthodontiepraktijk in Aalst.",
+      "address": "Eindhovenseweg 77, 5582 HR Waalre",
+      "phone": "040-2215079",
+      "url": "https://www.orthocenter.nl/onze-orthodontiepraktijken/waalre/",
+      "place": "Aalst"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "mondhygiënist",
+      "name": "Mondhygiënist Bunyadi",
+      "description": "Mondhygiënist S. Bunyadi in Gezondheidscentrum Waalre-dorp.",
+      "address": "Sportlaan 1, 5581 BZ Waalre",
+      "phone": "040-3041666",
+      "url": "https://mondzorgbasis.nl/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "mondhygiënist",
+      "name": "FRRSS Waalre",
+      "description": "Mondhygiënistenpraktijk. De site noemt ook een vestiging in Valkenswaard.",
+      "address": "Antoon Coolenlaan 6, 5582 EL Waalre",
+      "phone": "040 - 22 30 934",
+      "url": "https://www.frrss.nl/",
+      "place": "Aalst"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "fysiotherapie",
+      "name": "Cardo Healthcare Waalre",
+      "description": "Fysiotherapie, ergotherapie, podotherapie en psychologie. De contactpagina noemt ook een adres bij Huisartsenpraktijk Lankhorst.",
+      "address": "van Dijklaan 3, 5581 WG Waalre; Bergstraat 23, 5581 BL Waalre",
+      "phone": "040 – 2 094 095",
+      "url": "https://www.cardohealthcare.nl/contact/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "oefentherapeut",
+      "name": "Oefentherapie Aalst-Waalre",
+      "description": "Oefentherapie Mensendieck/Cesar van Katja van den Abeelen en Yvette van der Waart, in Medisch Centrum Aalst en Gezondheidscentrum Waalre-dorp.",
+      "address": "Raadhuisstraat 6, 5582 JD Waalre; Sportlaan 1, 5581 BZ Waalre",
+      "phone": "+31 (0)6-15419112; +31 (0)6-30433276",
+      "url": "https://www.oefentherapieaalstwaalre.nl/",
+      "place": "Waalre en Aalst"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "oefentherapeut",
+      "name": "Het Oefenlokaal",
+      "description": "Oefentherapie Cesar/Mensendieck. De site noemt ook Eindhoven.",
+      "address": "Sportlaan 1, 5581 BZ Waalre",
+      "phone": "+31640542688",
+      "url": "https://www.hetoefenlokaal.nl/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "psycholoog",
+      "name": "Psychologenpraktijk Waalre",
+      "description": "Psychologenpraktijk in Gezondheidscentrum Waalre-dorp en op de eerste etage van Medisch Centrum Aalst. Telefonisch bereikbaar op werkdagen van 9.00 tot 12.00 uur.",
+      "address": "Sportlaan 5, 5581 BZ Waalre; Raadhuisstraat 6, 5582 JD Waalre",
+      "phone": "06-37023291",
+      "url": "https://psychologenpraktijkwaalre.nl/",
+      "place": "Waalre en Aalst"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "verloskundige",
+      "name": "040verloskunde",
+      "description": "Verloskundigenpraktijk met spreekuurlocatie in Waalre. De site noemt ook locaties in Eindhoven.",
+      "address": "Sportlaan 5, 5581 BZ Waalre",
+      "phone": "040 241 98 41",
+      "url": "https://www.040verloskunde.nl/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "verloskundige",
+      "name": "Vivre Verloskunde",
+      "description": "Verloskundigenpraktijk met locaties in Waalre en Aalst. De site noemt ook Valkenswaard.",
+      "address": "Sportlaan 4, Waalre; Raadhuisstraat 6B, Aalst-Waalre",
+      "phone": "040-2301230",
+      "url": "https://vivreverloskunde.nl/contact",
+      "place": "Waalre en Aalst"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "podotherapeut",
+      "name": "Podotherapie Couteaux",
+      "description": "Podotherapie in Gezondheidscentrum Waalre-dorp. De site noemt ook Eindhoven en Geldrop.",
+      "address": "Sportlaan 1, Waalre",
+      "phone": "040 - 750 80 35",
+      "url": "https://podotherapiecouteaux.nl/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "diëtist",
+      "name": "Diëtistenpraktijk Dieetteam",
+      "description": "Diëtistenpraktijk in Gezondheidscentrum Waalre-dorp. De site noemt ook een locatie in Valkenswaard.",
+      "address": "Sportlaan 5, 5581 BZ Waalre",
+      "phone": "06 19977833",
+      "url": "https://hetdieetteam.nl/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "logopedist",
+      "name": "Logopedie Eveline van Vulpen",
+      "description": "Logopediepraktijk in Gezondheidscentrum Waalre-dorp.",
+      "address": "Sportlaan 1, 5581 BZ Waalre",
+      "phone": "+31 (0)6 19 40 71 74",
+      "url": "https://logopedie-waalre.nl/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "osteopaat",
+      "name": "Osteopathie Geurtsen",
+      "description": "Osteopathiepraktijk in Gezondheidscentrum Brabantia. Navigatie naar Nassaustraat 1 komt op het woonhuis uit; de praktijk is Nassaustraat 1F.",
+      "address": "Nassaustraat 1F, 5583 BN Waalre",
+      "phone": "06-24229479",
+      "url": "https://osteopathiegeurtsen.nl/contact/",
+      "place": "Aalst"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "thuiszorg",
+      "name": "Verpleeg Collectief Waalre",
+      "description": "Particuliere thuiszorg. Het bezoekadres van het hoofdkantoor staat in Aalst.",
+      "address": "Burg. Mollaan 28, 5582 CK Waalre",
+      "phone": "040 22 152 71",
+      "url": "https://verpleegcollectief.nl/particuliere-thuiszorg-waalre-en-omstreken",
+      "place": "Aalst"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "zorgcentrum",
+      "name": "Residentie Haelst",
+      "description": "Zorgstudio’s voor wonen met zorg, voorheen Zorgvilla Waalre. Wonen met zorgvraag is er alleen met een WLZ-indicatie. Er is ook logeerzorg.",
+      "address": "De Leesakker 24, 5582 ZB Waalre",
+      "phone": "085 - 808 7051",
+      "url": "https://www.rosorum.nl/residenties/haelst/",
+      "place": "Aalst"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "zorgcentrum",
+      "name": "Serviceflat Eeckenrhode",
+      "description": "Serviceflat met zorg en diensten.",
+      "address": "Irenelaan 9, 5583 AD Waalre",
+      "phone": "040-2282800",
+      "url": "https://www.eeckenrhode.nl/contact/",
+      "place": "Aalst"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "dierenarts",
+      "name": "Dierenkliniek Waalre",
+      "description": "Dierenartspraktijk.",
+      "address": "Prunellalaan 2, 5582 HB Waalre",
+      "phone": "040-303 5153",
+      "url": "https://www.dierenkliniekwaalre.nl/",
+      "place": "Aalst"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "opticien",
+      "name": "Van Hardeveld Optiek",
+      "description": "Opticien. Maandag en zondag gesloten, dinsdag tot en met vrijdag 9–17, zaterdag 9–16.",
+      "address": "Willibrorduslaan 52a, 5581 GG Waalre",
+      "phone": "+31402220494",
+      "url": "https://vanhardeveldoptiek.nl/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "zorg",
+      "subcategory": "opticien",
+      "name": "Pearle Opticiens Waalre",
+      "description": "Opticien in winkelcentrum Den Hof. Maandag en zondag gesloten; dinsdag tot en met zaterdag geopend.",
+      "address": "Den Hof 146-A, 5582 JZ Waalre",
+      "phone": "040-2490308",
+      "url": "https://www.pearle.nl/opticien/waalre/den-hof-146",
+      "place": "Aalst"
+    },
+    {
+      "category": "eten",
+      "subcategory": "restaurant",
+      "name": "Arigato Sushi & Grill",
+      "description": "Sushi en grill in Waalre-dorp. Afhalen en bezorgen. Op de bestelsite staan woensdag tot en met zondag 15.30–22.00; maandag en dinsdag gesloten.",
+      "address": "Molenstraat 23, 5581 JT Waalre",
+      "phone": "040 2217208",
+      "url": "https://arigato-sushi-grill-waalre.nl/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "eten",
+      "subcategory": "eetcafé",
+      "name": "De Hut van Mie Pils",
+      "description": "Eetcafé en terras in de bossen van Waalre, voor koffie, lunch en een hapje. De site publiceert zomeropeningstijden (1 mei–1 oktober) en zegt dat het hele jaar een tussenstop is.",
+      "address": "Leenderweg 1, 5583 TC Waalre",
+      "phone": "040-2212892",
+      "url": "https://www.hutvanmiepils.nl/",
+      "place": "Aalst"
+    },
+    {
+      "category": "eten",
+      "subcategory": "restaurant",
+      "name": "Meester Keeman",
+      "description": "Restaurant aan de Markt voor lunch, diner en borrel. Dinsdag gesloten. Overige dagen vanaf 11.00 uur.",
+      "address": "Markt 21, 5581 GK Waalre",
+      "phone": "040-7601999",
+      "url": "https://www.meesterkeeman.nl/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "eten",
+      "subcategory": "restaurant",
+      "name": "Brasserie 't Stationskoffiehuis",
+      "description": "Brasserie voor lunch, diner en borrel. Maandag gesloten. Dinsdag tot en met vrijdag 12.00–0.00, zaterdag 15.00–0.00, zondag 10.30–21.00.",
+      "address": "Willibrorduslaan 137a, 5581 GD Waalre",
+      "phone": "040 - 221 76 34",
+      "url": "https://stations-koffiehuis.nl/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "eten",
+      "subcategory": "lunchroom",
+      "name": "Carpe Diem",
+      "description": "Tuin en terras voor koffie, eenvoudige lunch, high tea en borrelplank, bij mooi weer. In het pand zit ook dames- en herenmode. De bouwvaksluiting van augustus 2026 is voorbij.",
+      "address": "Willibrorduslaan 14, 5581 GE Waalre",
+      "phone": "",
+      "url": "https://carpediemwaalre.nl/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "winkels",
+      "subcategory": "kleding",
+      "name": "Carpe Diem mode",
+      "description": "Damesmode, herenmode, cadeaus en lifestyle in hetzelfde pand als de tuinlunchroom. Woensdag tot en met vrijdag 10.00–18.00, zaterdag 10.00–17.00, zondag 12.00–17.00. Maandag en dinsdag gesloten.",
+      "address": "Willibrorduslaan 14, 5581 GE Waalre",
+      "phone": "",
+      "url": "https://carpediemwaalre.nl/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "eten",
+      "subcategory": "snackbar",
+      "name": "Snackbar De Mert",
+      "description": "Snackbar aan de Markt. Elke dag 16.00–20.00, dinsdag gesloten. De zomervakantie van 2026 (27 juli–17 augustus) is voorbij.",
+      "address": "Markt 23A, 5581 GK Waalre",
+      "phone": "040-2216677",
+      "url": "https://homemadefriet.nl/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "eten",
+      "subcategory": "lunchroom",
+      "name": "Lunchroom Hof 7",
+      "description": "Lunchroom in Winkelcentrum Den Hof, met broodjes, salades en high tea. Eigen bestelpagina.",
+      "address": "Den Hof 7, 5582 JZ Waalre",
+      "phone": "040 3080144",
+      "url": "https://lunchroomhof7.eatbu.com/?lang=nl",
+      "place": "Aalst"
+    },
+    {
+      "category": "eten",
+      "subcategory": "restaurant",
+      "name": "De Leemer Hoef",
+      "description": "Restaurant in een oude boerderij. Maandag en dinsdag alleen op aanvraag. Woensdag tot en met zondag vanaf 12.00 uur. Keuken tot 20.30.",
+      "address": "Gestelsestraat 102, 5582 HK Waalre",
+      "phone": "040 221 54 06",
+      "url": "https://leemerhoef.nl/",
+      "place": "Waalre"
+    },
+    {
+      "category": "eten",
+      "subcategory": "restaurant",
+      "name": "'t Brabants Genot",
+      "description": "Restaurant en terras in een boerderij in Waalre, ook voor borrel en feesten. De site kondigt kerst 2026 aan (24–27 december, alleen op reservering).",
+      "address": "Heikantstraat 23, 5581 VB Waalre",
+      "phone": "040-8457034",
+      "url": "https://www.brabantsgenot.nl/",
+      "place": "Waalre-dorp"
+    },
+    {
+      "category": "winkels",
+      "subcategory": "drogist",
+      "name": "Kruidvat De Bus",
+      "description": "Drogist in Winkelcentrum De Bus. Op de controledag stond de winkel open tot 18.00. Maandag–donderdag 8.30–18.00, vrijdag tot 20.00, zaterdag tot 17.30, zondag 10.00–17.00.",
+      "address": "De Bus 39a, 5581 GP Waalre",
+      "phone": "",
+      "url": "https://www.kruidvat.nl/store/drogisterij-kruidvat-7797",
+      "place": "Waalre-dorp"
+    }
+  ]
+}

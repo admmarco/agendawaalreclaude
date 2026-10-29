@@ -1,0 +1,288 @@
+[
+  {
+    "id": "huis-van-waalre",
+    "name": "Het Huis van Waalre",
+    "address": "Koningin Julianalaan 19",
+    "postcode": "5582 JV",
+    "dorp": "Waalre-dorp",
+    "description": "Multifunctioneel gemeenschapshuis met zalen voor workshops, concerten, vergaderingen en culturele activiteiten. Deelt het complex met de bibliotheek en gemeentelijke functies.",
+    "website": "https://www.hethuisvanwaalre.nl/",
+    "agenda": "https://www.hethuisvanwaalre.nl/agenda/",
+    "tags": [
+      "lezing",
+      "cursus",
+      "cultuur",
+      "dialoog"
+    ],
+    "phone": "040-2282501"
+  },
+  {
+    "id": "bibliotheek",
+    "name": "Bibliotheek Waalre",
+    "address": "Koningin Julianalaan 19",
+    "postcode": "5582 JV",
+    "dorp": "Waalre-dorp",
+    "description": "Publieke bibliotheek (DBRE) met DigiCafé, Taalcafé, Waalre in Gesprek, workshops en kinderactiviteiten. Gevestigd in Het Huis van Waalre.",
+    "website": "https://www.dbre.nl/waalre.html",
+    "agenda": "https://dbre.op-shop.nl/ingang/waalre/",
+    "tags": [
+      "cursus",
+      "dialoog",
+      "lezing"
+    ],
+    "phone": null,
+    "partOf": "huis-van-waalre"
+  },
+  {
+    "id": "de-pracht",
+    "name": "Ontmoetingscentrum De Pracht",
+    "address": "De Pracht 2",
+    "postcode": "5583 CW",
+    "dorp": "Aalst",
+    "description": "Modern ontmoetingscentrum voor verenigingen, cursussen, dans, exposities, Repair Café en buurtactiviteiten. Meerdere zalen beschikbaar via de Zalenplanner.",
+    "website": "https://depracht.nl/",
+    "agenda": "https://depracht.nl/",
+    "tags": [
+      "cursus",
+      "cultuur",
+      "overig"
+    ],
+    "phone": "040-2217400"
+  },
+  {
+    "id": "agnus-dei",
+    "name": "Agnus Dei-kerk",
+    "address": "Koningin Julianalaan 12",
+    "postcode": "5582 JV",
+    "dorp": "Waalre-dorp",
+    "description": "Protestantse kerk met grote zaal en kleinere ruimtes, open voor lezingen, filmavonden, koorrepetities en workshops — ook voor niet-kerkelijke groepen.",
+    "website": "https://adkerk.nl/",
+    "agenda": "https://adkerk.nl/",
+    "tags": [
+      "lezing",
+      "cultuur",
+      "dialoog"
+    ],
+    "phone": "06-13155567"
+  },
+  {
+    "id": "het-klooster",
+    "name": "Het Klooster Waalre",
+    "address": "Jan van Genugtenstraat 1",
+    "postcode": "5581 GT",
+    "dorp": "Waalre-dorp",
+    "description": "Rijksmonument met karaktervolle zalen voor vergaderingen, workshops, lezingen, repetities en kleinschalige muziekoptredens.",
+    "website": "https://hetkloosterwaalre.nl/",
+    "agenda": "https://hetkloosterwaalre.nl/agenda/",
+    "tags": [
+      "lezing",
+      "cultuur",
+      "cursus"
+    ],
+    "phone": "06-51059915"
+  },
+  {
+    "id": "sporthal-hazzo",
+    "name": "Sporthal ’t Hazzo",
+    "address": "Prunellalaan 7",
+    "postcode": "5582 HB",
+    "dorp": "Aalst",
+    "description": "Sporthal met vergaderruimtes voor sport, presentaties en verenigingsactiviteiten. Beheerd door Sporthalbeheer Waalre.",
+    "website": "https://www.sporthalbeheerwaalre.nl/",
+    "agenda": null,
+    "tags": [
+      "sport",
+      "overig"
+    ],
+    "phone": "040-2231020"
+  },
+  {
+    "id": "sporthal-pracht",
+    "name": "Sporthal De Pracht",
+    "address": "De Pracht 3",
+    "postcode": "5583 CW",
+    "dorp": "Aalst",
+    "description": "Indoor sportzaal naast ontmoetingscentrum De Pracht. Geschikt voor sport en incidentele evenementen.",
+    "website": "https://www.sporthalbeheerwaalre.nl/",
+    "agenda": null,
+    "tags": [
+      "sport"
+    ],
+    "phone": "040-2231020"
+  },
+  {
+    "id": "sporthal-hoeveland",
+    "name": "Sporthal Hoeveland",
+    "address": "Meester Slootsweg 3",
+    "postcode": "5581 AS",
+    "dorp": "Waalre-dorp",
+    "description": "Sporthal met indoor soccer bij Sportpark Hoeveland. Verhuur voor verenigingen en incidenteel gebruik.",
+    "website": "https://www.sporthalhoeveland.nl/contact/",
+    "agenda": null,
+    "tags": [
+      "sport",
+      "wandeling"
+    ],
+    "phone": "040-2214384"
+  },
+  {
+    "id": "scouting-meerberg",
+    "name": "Scouting De Meerberg",
+    "address": "Heistraat 90",
+    "postcode": "5581 VW",
+    "dorp": "Waalre-dorp",
+    "description": "Blokhut van Scouting Aalst-Waalre in het groen. Geschikt voor groepen en kampen; niet bedoeld voor feesten.",
+    "website": "https://scoutingaalstwaalre.nl/",
+    "agenda": "https://scoutingaalstwaalre.nl/verhuur.html",
+    "tags": [
+      "overig"
+    ],
+    "phone": "040-2213869"
+  },
+  {
+    "id": "oude-willibrordus",
+    "name": "Oude Willibrorduskerk",
+    "address": "Oude Torenstraat 2",
+    "postcode": "5581 BJ",
+    "dorp": "Waalre-dorp",
+    "description": "Historische kerk (deels 12e eeuw) voor beiaardbespelingen, concerten, Open Monumentendag en huwelijken. Gemeentelijke trouwlocatie.",
+    "website": "https://www.visitbrabant.com/",
+    "agenda": "https://www.waalre.nl/inwoners-en-ondernemers/evenementenkalender.html",
+    "tags": [
+      "cultuur"
+    ],
+    "phone": "040-2215421"
+  },
+  {
+    "id": "tapperij-vvdj",
+    "name": "Tapperij de Oude Toren / VvdJ",
+    "address": "Oude Torenstraat 6",
+    "postcode": "5581 BJ",
+    "dorp": "Waalre-dorp",
+    "description": "Clubhuis van de Vereniging voor de Jeugd (sinds 1907). Basis voor dorpsfeesten zoals Koningsdag, Sinterklaas, Paosmikken en Vliegerdag.",
+    "website": "https://vvdj.nl/",
+    "agenda": "https://vvdj.nl/agenda/",
+    "tags": [
+      "cultuur",
+      "overig"
+    ],
+    "phone": null
+  },
+  {
+    "id": "trinity-church",
+    "name": "Trinity Church Eindhoven",
+    "address": "De Pracht 1",
+    "postcode": "5583 CW",
+    "dorp": "Aalst",
+    "description": "Engelstalige internationale kerk, gevestigd aan De Pracht 1 in Aalst (naast ontmoetingscentrum De Pracht). Zondagse diensten en aparte activiteiten zoals Alpha, Selah en workshops.",
+    "website": "https://trinitychurcheindhoven.org/",
+    "agenda": "https://trinitychurcheindhoven.org/church-events/",
+    "tags": [
+      "cultuur",
+      "cursus",
+      "dialoog",
+      "overig"
+    ],
+    "phone": null
+  },
+  {
+    "id": "paramount-fitness",
+    "name": "Paramount Fitness",
+    "address": "De Pracht 4",
+    "postcode": "5583 CW",
+    "dorp": "Aalst",
+    "description": "Sportschool met groepslessen zoals spinning, pilates, zumba en club power.",
+    "website": "https://paramountfitness.nl/",
+    "agenda": "https://paramountfitness.nl/lessen/",
+    "tags": [
+      "sport"
+    ],
+    "phone": "040-2217255"
+  },
+  {
+    "id": "sportcentrum-coach",
+    "name": "Sportcentrum Coach",
+    "address": "Eindhovenseweg 8A",
+    "postcode": "5582 HS",
+    "dorp": "Aalst",
+    "description": "Fitness en sportschool met groepslessen, judo en jeugdfitness.",
+    "website": "https://www.sportcentrumcoach.nl/",
+    "agenda": "https://www.sportcentrumcoach.nl/aanbod/groepslessen-lesrooster/",
+    "tags": [
+      "sport"
+    ],
+    "phone": "040-2217060"
+  },
+  {
+    "id": "cardo-waalre",
+    "name": "Cardo Waalre",
+    "address": "Van Dijklaan 3",
+    "postcode": "5581 WG",
+    "dorp": "Waalre-dorp",
+    "description": "Sportschool met reformer pilates, hyrox, yoga en HIIT.",
+    "website": "https://www.cardo.nl/",
+    "agenda": "https://www.cardo.nl/groepslessrooster-waalre/",
+    "tags": [
+      "sport"
+    ],
+    "phone": "040-2538040"
+  },
+  {
+    "id": "sportpark-aalstervelden",
+    "name": "Sportpark De Aalstervelden (DVS)",
+    "address": "Sophiastraat 10A",
+    "postcode": null,
+    "dorp": "Aalst",
+    "description": "Sportpark met kunstgrasvelden en clubhuis van DVS Voetbal en DVS Hockey. Ook walking football en Samen Buiten Bewegen 55+.",
+    "website": "https://dvs-voetbal.nl/",
+    "agenda": "https://dvs-voetbal.nl/agenda/",
+    "tags": [
+      "sport"
+    ],
+    "phone": null
+  },
+  {
+    "id": "brabantia-ontmoetingsruimte",
+    "name": "Ontmoetingsruimte Brabantia",
+    "address": "Chromerij 2",
+    "postcode": "5583 HJ",
+    "dorp": "Aalst",
+    "description": "Ontmoetingsruimte op het Brabantia-terrein. Hier is op donderdagochtend Bewegen op Muziek voor 65-plussers.",
+    "website": "https://www.socialegidswaalre.nl/is/product/169290/221638/bewegen-op-muziek-65",
+    "agenda": null,
+    "tags": [
+      "sport"
+    ],
+    "phone": null
+  },
+  {
+    "id": "circles-waalre",
+    "name": "Circles Waalre",
+    "address": "Markt 5",
+    "postcode": "5581 GK",
+    "dorp": "Waalre-dorp",
+    "description": "Kleine sportschool met begeleide training op de Milon-cirkel. ParkinsonCompass geeft hier op woensdag boksles.",
+    "website": "https://www.circleswaalre.nl/",
+    "agenda": null,
+    "tags": [
+      "sport"
+    ],
+    "phone": "040-7370329"
+  },
+  {
+    "id": "buiten-natuur",
+    "name": "Buiten / natuur",
+    "address": null,
+    "postcode": null,
+    "dorp": null,
+    "description": "Wandelingen en natuurwerkdagen in de buitenlucht in de gemeente Waalre. Het verzamelpunt staat bij elke activiteit.",
+    "website": "https://www.ivn.nl/afdeling/valkenswaard-waalre/",
+    "agenda": "https://www.ivn.nl/afdeling/valkenswaard-waalre/natuuractiviteiten/",
+    "tags": [
+      "wandeling",
+      "overig"
+    ],
+    "phone": null,
+    "outdoor": true
+  }
+]

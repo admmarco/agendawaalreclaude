@@ -1,0 +1,260 @@
+{
+ "jaar": 2027,
+ "bron": "Activiteitenlijst Aalst Waalre 2027",
+ "items": [
+  {
+   "id": "nieuwjaar",
+   "titel": "Nieuwjaarsreceptie",
+   "titel_en": "New Year's reception",
+   "datum": null,
+   "maand": 1,
+   "zekerheid": "datum volgt",
+   "datum_tekst": "januari – datum volgt",
+   "datum_tekst_en": "January – date to be announced",
+   "locaties": [
+    {
+     "naam": "Het Huis van Waalre",
+     "adres": "Koningin Julianalaan 19",
+     "lat": 51.39181,
+     "lng": 5.461897
+    }
+   ]
+  },
+  {
+   "id": "carnaval",
+   "titel": "Carnaval",
+   "titel_en": "Carnival",
+   "datum": "2027-02-07",
+   "maand": 2,
+   "zekerheid": "vast",
+   "datum_tekst": "zo 7 t/m di 9 februari",
+   "datum_tekst_en": "Sun 7 – Tue 9 February",
+   "locaties": [
+    {
+     "naam": "De Pracht",
+     "adres": "De Pracht 2",
+     "lat": 51.396415,
+     "lng": 5.486367
+    },
+    {
+     "naam": "Het Klooster",
+     "adres": "Hoogstraat 8",
+     "lat": 51.387583,
+     "lng": 5.443839
+    },
+    {
+     "naam": "'t Stationskoffiehuis",
+     "adres": "Willibrorduslaan 137a",
+     "lat": 51.39201,
+     "lng": 5.459918
+    }
+   ]
+  },
+  {
+   "id": "paaseitjes",
+   "titel": "Paaseitjes zoeken",
+   "titel_en": "Easter egg hunt",
+   "datum": null,
+   "maand": 3,
+   "zekerheid": "datum volgt",
+   "datum_tekst": "rond Pasen (zo 28 maart) – datum volgt",
+   "datum_tekst_en": "around Easter (Sun 28 March) – date to be announced",
+   "locaties": [
+    {
+     "naam": "Tuin van de pastorie",
+     "adres": "Markt 23",
+     "lat": 51.3866,
+     "lng": 5.4436
+    }
+   ]
+  },
+  {
+   "id": "koningsdag",
+   "titel": "Koningsdag",
+   "titel_en": "King's Day",
+   "datum": "2027-04-27",
+   "maand": 4,
+   "zekerheid": "vast",
+   "datum_tekst": "dinsdag 27 april",
+   "datum_tekst_en": "Tuesday 27 April",
+   "locaties": []
+  },
+  {
+   "id": "braderie",
+   "titel": "Wolderse Braderie",
+   "titel_en": "Wolderse street fair",
+   "datum": "2027-05-09",
+   "maand": 5,
+   "zekerheid": "vast",
+   "datum_tekst": "zondag 9 mei (2e zondag van mei)",
+   "datum_tekst_en": "Sunday 9 May (2nd Sunday of May)",
+   "locaties": [
+    {
+     "naam": "Markt Waalre-dorp",
+     "adres": "Markt",
+     "lat": 51.385883,
+     "lng": 5.44362
+    }
+   ]
+  },
+  {
+   "id": "harmonie",
+   "titel": "Concert Harmonie de Volharding",
+   "titel_en": "Concert by Harmonie de Volharding",
+   "datum": null,
+   "maand": null,
+   "zekerheid": "datum volgt",
+   "datum_tekst": "datum volgt",
+   "datum_tekst_en": "date to be announced",
+   "locaties": [
+    {
+     "naam": "Het Huis van Waalre",
+     "adres": "Koningin Julianalaan 19",
+     "lat": 51.39181,
+     "lng": 5.461897
+    }
+   ]
+  },
+  {
+   "id": "kermis",
+   "titel": "Kermis",
+   "titel_en": "Funfair",
+   "datum": null,
+   "maand": null,
+   "zekerheid": "datum volgt",
+   "datum_tekst": "datum volgt",
+   "datum_tekst_en": "date to be announced",
+   "locaties": []
+  },
+  {
+   "id": "womans-night",
+   "titel": "Womans Night",
+   "titel_en": "Women's Night",
+   "datum": null,
+   "maand": null,
+   "zekerheid": "datum volgt",
+   "datum_tekst": "datum volgt",
+   "datum_tekst_en": "date to be announced",
+   "locaties": [
+    {
+     "naam": "Den Hof, Aalst",
+     "adres": "Den Hof",
+     "lat": 51.395476,
+     "lng": 5.475693
+    }
+   ]
+  },
+  {
+   "id": "kempenerpop",
+   "titel": "Kempenerpop",
+   "titel_en": "Kempenerpop music festival",
+   "datum": null,
+   "maand": 9,
+   "zekerheid": "verwacht",
+   "datum_tekst": "september – datum volgt",
+   "datum_tekst_en": "September – date to be announced",
+   "locaties": [
+    {
+     "naam": "Velden RKVV Waalre",
+     "adres": "Dreefstraat 48a",
+     "lat": 51.386863,
+     "lng": 5.437565
+    }
+   ]
+  },
+  {
+   "id": "festival-woods",
+   "titel": "Festival Woods",
+   "titel_en": "Festival Woods",
+   "datum": null,
+   "maand": null,
+   "zekerheid": "datum volgt",
+   "datum_tekst": "datum volgt",
+   "datum_tekst_en": "date to be announced",
+   "locaties": [
+    {
+     "naam": "Hut van Mie Pils",
+     "adres": "Leenderweg 1",
+     "lat": 51.390611,
+     "lng": 5.505101
+    }
+   ]
+  },
+  {
+   "id": "vliegerfestival",
+   "titel": "Vliegerfestival",
+   "titel_en": "Kite festival",
+   "datum": null,
+   "maand": 10,
+   "zekerheid": "verwacht",
+   "datum_tekst": "begin oktober – datum volgt",
+   "datum_tekst_en": "early October – date to be announced",
+   "locaties": [
+    {
+     "naam": "Velden RKVV Waalre",
+     "adres": "Dreefstraat 48a",
+     "lat": 51.386863,
+     "lng": 5.437565
+    }
+   ]
+  },
+  {
+   "id": "halloween",
+   "titel": "Halloween",
+   "titel_en": "Halloween",
+   "datum": null,
+   "maand": 10,
+   "zekerheid": "verwacht",
+   "datum_tekst": "rond zondag 31 oktober – datum volgt",
+   "datum_tekst_en": "around Sunday 31 October – date to be announced",
+   "locaties": [
+    {
+     "naam": "De Pracht",
+     "adres": "De Pracht 2",
+     "lat": 51.396415,
+     "lng": 5.486367
+    }
+   ]
+  },
+  {
+   "id": "sinterklaas",
+   "titel": "Sinterklaas",
+   "titel_en": "Sinterklaas",
+   "datum": null,
+   "maand": 11,
+   "zekerheid": "verwacht",
+   "datum_tekst": "november – datum volgt",
+   "datum_tekst_en": "November – date to be announced",
+   "locaties": []
+  },
+  {
+   "id": "muziekavonden",
+   "titel": "Muziekavonden",
+   "titel_en": "Music evenings",
+   "datum": null,
+   "maand": null,
+   "zekerheid": "datum volgt",
+   "datum_tekst": "door het jaar heen",
+   "datum_tekst_en": "throughout the year",
+   "locaties": [
+    {
+     "naam": "Muziekonderwijs Aalst-Waalre",
+     "adres": "Bertelindislaan 1",
+     "lat": 51.388739,
+     "lng": 5.446504
+    }
+   ]
+  },
+  {
+   "id": "kerst",
+   "titel": "Kerstviering",
+   "titel_en": "Christmas celebration",
+   "datum": null,
+   "maand": 12,
+   "zekerheid": "verwacht",
+   "datum_tekst": "december – datum volgt",
+   "datum_tekst_en": "December – date to be announced",
+   "locaties": []
+  }
+ ]
+}

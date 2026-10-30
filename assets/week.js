@@ -18,6 +18,24 @@
     "w.r.weekend": "Dit weekend",
     "w.r.week": "Komende 7 dagen",
     "w.r.weekShort": "7 dagen",
+    "w.r.weekendShort": "Weekend",
+    "w.r.month": "Komende 4 weken",
+    "w.r.monthShort": "4 weken",
+    "w.days": "Dagen",
+    "w.d1": "ma",
+    "w.dl1": "maandag",
+    "w.d2": "di",
+    "w.dl2": "dinsdag",
+    "w.d3": "wo",
+    "w.dl3": "woensdag",
+    "w.d4": "do",
+    "w.dl4": "donderdag",
+    "w.d5": "vr",
+    "w.dl5": "vrijdag",
+    "w.d6": "za",
+    "w.dl6": "zaterdag",
+    "w.d0": "zo",
+    "w.dl0": "zondag",
     "w.jump": "Spring naar een dag",
     "w.jumpLabel": "Ga naar",
     "w.top": "Filters",
@@ -40,7 +58,7 @@
     "w.empty.end": "In dit overzicht staan activiteiten tot en met {d}. Kijk in de volledige agenda voor nieuwe activiteiten.",
     "w.empty.title": "Geen activiteiten gevonden",
     "w.empty.text": "In deze periode staat er niets van deze soort in de agenda. Probeer een andere periode of soort, of kijk in de volledige agenda.",
-    "w.empty.reset": "Toon alles van de komende 7 dagen",
+    "w.empty.reset": "Wis filters: toon de komende 7 dagen",
     "w.empty.full": "Naar agenda-waalre.vercel.app",
     "w.moreTitle": "Verder kijken",
     "w.t1k": "Waar is wat",
@@ -68,6 +86,24 @@
     "w.r.weekend": "This weekend",
     "w.r.week": "Next 7 days",
     "w.r.weekShort": "7 days",
+    "w.r.weekendShort": "Weekend",
+    "w.r.month": "Next 4 weeks",
+    "w.r.monthShort": "4 weeks",
+    "w.days": "Days",
+    "w.d1": "Mo",
+    "w.dl1": "Monday",
+    "w.d2": "Tu",
+    "w.dl2": "Tuesday",
+    "w.d3": "We",
+    "w.dl3": "Wednesday",
+    "w.d4": "Th",
+    "w.dl4": "Thursday",
+    "w.d5": "Fr",
+    "w.dl5": "Friday",
+    "w.d6": "Sa",
+    "w.dl6": "Saturday",
+    "w.d0": "Su",
+    "w.dl0": "Sunday",
     "w.jump": "Jump to a day",
     "w.jumpLabel": "Go to",
     "w.top": "Filters",
@@ -90,7 +126,7 @@
     "w.empty.end": "This overview lists activities up to and including {d}. Check the full agenda for new activities.",
     "w.empty.title": "No activities found",
     "w.empty.text": "Nothing of this type is listed for this period. Try another period or type, or check the full agenda.",
-    "w.empty.reset": "Show everything in the next 7 days",
+    "w.empty.reset": "Clear filters: show the next 7 days",
     "w.empty.full": "Go to agenda-waalre.vercel.app",
     "w.moreTitle": "Explore further",
     "w.t1k": "What's where",
@@ -115,13 +151,13 @@
   };
 
   var esc = AW.esc;
-  var state = { range: "week", type: "alle", venue: null };
+  var state = { range: "week", type: "alle", venue: null, days: [] };
   var events = [], venues = {}, coords = {}, maxDate = "";
 
   try {
     var qp = new URLSearchParams(location.search);
     state.venue = qp.get("venue");
-    var r = qp.get("range"); if (r === "today" || r === "weekend" || r === "week") state.range = r;
+    var r = qp.get("range"); if (r === "today" || r === "weekend" || r === "week" || r === "month") state.range = r;
     var t = qp.get("type"); if (t && AW.TYPES[t]) state.type = t;
   } catch (e) { /* oude browser */ }
 
@@ -139,6 +175,7 @@
       var sat = AW.addDays(t, 6 - dow);
       return [AW.iso(sat), AW.iso(AW.addDays(sat, 1))];
     }
+    if (kind === "month") return [AW.iso(t), AW.iso(AW.addDays(t, 27))];
     return AW.weekRange();
   }
 
@@ -162,6 +199,13 @@
       b.setAttribute("aria-pressed", b.getAttribute("data-range") === state.range ? "true" : "false");
     });
   }
+
+  function renderDays() {
+    Array.prototype.forEach.call(document.querySelectorAll(".daybtn"), function (b) {
+      b.setAttribute("aria-pressed", state.days.indexOf(+b.getAttribute("data-dow")) >= 0 ? "true" : "false");
+    });
+  }
+  function dayMatch(e) { return !state.days.length || state.days.indexOf(AW.parse(e.date).getDay()) >= 0; }
 
   function renderChips(base) {
     var counts = { alle: base.length };
@@ -225,8 +269,9 @@
 
   function render() {
     renderSeg();
+    renderDays();
     var r = rangeDates(state.range);
-    var base = events.filter(function (e) { return inRange(e, r) && venueMatch(e); });
+    var base = events.filter(function (e) { return inRange(e, r) && venueMatch(e) && dayMatch(e); });
     renderChips(base);
     chipsEnd();
     var list = state.type === "alle" ? base : base.filter(function (e) { return (AW.TYPES[e.type] ? e.type : "overig") === state.type; });
@@ -248,10 +293,10 @@
         "<h3>" + esc(AW.t(ended ? "w.empty.endTitle" : "w.empty.title")) + "</h3>" +
         "<p>" + esc(ended ? AW.t("w.empty.end", { d: AW.fmt(AW.parse(maxDate), { day: "numeric", month: "long", year: "numeric" }) }) : AW.t("w.empty.text")) + "</p>" +
         '<div class="actions">' + full +
-        (!ended && (state.type !== "alle" || state.range !== "week") ? '<button type="button" class="btn btn--ghost" data-reset>' + esc(AW.t("w.empty.reset")) + "</button>" : "") +
+        (!ended && (state.type !== "alle" || state.range !== "week" || state.days.length) ? '<button type="button" class="btn btn--ghost" data-reset>' + esc(AW.t("w.empty.reset")) + "</button>" : "") +
         "</div></div></div>";
       var rb = daysEl.querySelector("[data-reset]");
-      if (rb) rb.addEventListener("click", function () { state.type = "alle"; state.range = "week"; render(); });
+      if (rb) rb.addEventListener("click", function () { state.type = "alle"; state.range = "week"; state.days = []; render(); });
       return;
     }
 
@@ -333,6 +378,15 @@
   document.querySelectorAll(".seg__btn").forEach(function (b) {
     b.addEventListener("click", function () { state.range = b.getAttribute("data-range"); render(); });
   });
+  /* Dagen zijn aan te vinken in combinatie; vandaag/weekend zijn dan te smal, dus dan naar 7 dagen */
+  document.querySelectorAll(".daybtn").forEach(function (b) {
+    b.addEventListener("click", function () {
+      var d = +b.getAttribute("data-dow"), i = state.days.indexOf(d);
+      if (i >= 0) state.days.splice(i, 1); else state.days.push(d);
+      if (state.days.length && (state.range === "today" || state.range === "weekend")) state.range = "week";
+      render();
+    });
+  });
   chipsEl.addEventListener("click", function (ev) {
     var b = ev.target.closest(".chip");
     if (!b) return;
@@ -358,6 +412,7 @@
   AW.applyI18n();
   renderToday();
   renderSeg();
+  renderDays();
   measure();
 
   Promise.all([AW.json("data/events.json"), AW.json("data/venues.json"), AW.json("data/claude/coords.json").catch(function () { return {}; })])

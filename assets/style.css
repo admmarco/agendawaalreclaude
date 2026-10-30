@@ -382,6 +382,14 @@ img, svg { max-width: 100%; }
 .daybar__top svg { width: 18px; height: 18px; }
 .day { scroll-margin-top: calc(var(--daybar-h, 0px) + 8px); }
 .seg__short { display: none; }
+.daybtns { display: flex; flex-wrap: wrap; gap: 6px; }
+.daybtn {
+  min-width: 48px; min-height: 44px; padding: 0 10px;
+  font: inherit; font-size: 17px; font-weight: 600; color: var(--ink);
+  background: var(--card); border: 1.5px solid var(--line); border-radius: 10px; cursor: pointer;
+}
+.daybtn:hover { border-color: var(--forest); }
+.daybtn[aria-pressed="true"] { background: var(--forest); border-color: var(--forest); color: #fff; }
 
 .day { margin-top: 34px; }
 .day__head {
@@ -873,6 +881,9 @@ img, svg { max-width: 100%; }
   .seg { width: 100%; }
   .seg__btn { padding: 0 8px; font-size: 16.5px; }
   .chip { font-size: 16px; padding: 0 12px 0 10px; }
+  .filters__label--keep { position: static; width: auto; height: auto; overflow: visible; clip: auto; min-width: 0; }
+  .daybtns { width: 100%; flex-wrap: nowrap; gap: 4px; }
+  .daybtn { flex: 1 1 0; min-width: 0; padding: 0; }
 
   .day__head { position: static; flex-wrap: wrap; }
   .ev { grid-template-columns: 1fr; gap: 6px; padding: 18px 0; }

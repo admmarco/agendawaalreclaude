@@ -6,7 +6,7 @@ Statische website voor nieuwe inwoners van Aalst en Waalre: wat is er deze week 
 
 | Bestand | Inhoud |
 |---|---|
-| `index.html` | **Deze week**: activiteiten van vandaag, dit weekend of de komende 7 dagen, filter op soort; `?venue=<id>` toont één plek |
+| `index.html` | **Deze week**: activiteiten van vandaag, dit weekend, de komende 7 dagen of 4 weken, filter op dag (ma t/m zo) en soort; `?venue=<id>` toont één plek |
 | `kaart.html` | **Kaart** (Leaflet + OpenStreetMap): ontmoetingsplekken, koffie & eten, rondleidingen, winkels. Ondersteunt `#venue-<id>`, `#horeca-<id>` en `?lat=..&lng=..&label=..` |
 | `rondleidingen.html` | **Rondleidingen**: vier routes met kaart, stops en koffieadressen; `#erfgoed`, `#cultuur`, `#sport`, `#winkels`; afdrukbaar op A4 |
 | `jaarkalender.html` | **Jaarkalender 2027** per maand, plus "Datum nog niet bekend" |

@@ -90,8 +90,21 @@
           <span class="filters__label" id="lbl-when" data-i18n="w.when">Wanneer</span>
           <div class="seg" role="group" aria-labelledby="lbl-when">
             <button type="button" class="seg__btn" data-range="today" aria-pressed="false" data-i18n="w.r.today">Vandaag</button>
-            <button type="button" class="seg__btn" data-range="weekend" aria-pressed="false" data-i18n="w.r.weekend">Dit weekend</button>
+            <button type="button" class="seg__btn" data-range="weekend" aria-pressed="false"><span class="seg__long" data-i18n="w.r.weekend">Dit weekend</span><span class="seg__short" data-i18n="w.r.weekendShort">Weekend</span></button>
             <button type="button" class="seg__btn" data-range="week" aria-pressed="true"><span class="seg__long" data-i18n="w.r.week">Komende 7 dagen</span><span class="seg__short" data-i18n="w.r.weekShort">7 dagen</span></button>
+            <button type="button" class="seg__btn" data-range="month" aria-pressed="false"><span class="seg__long" data-i18n="w.r.month">Komende 4 weken</span><span class="seg__short" data-i18n="w.r.monthShort">4 weken</span></button>
+          </div>
+        </div>
+        <div class="filters__row">
+          <span class="filters__label filters__label--keep" id="lbl-days" data-i18n="w.days">Dagen</span>
+          <div class="daybtns" role="group" aria-labelledby="lbl-days" id="day-btns">
+            <button type="button" class="daybtn" data-dow="1" aria-pressed="false" aria-label="maandag" data-i18n="w.d1" data-i18n-aria="w.dl1">ma</button>
+            <button type="button" class="daybtn" data-dow="2" aria-pressed="false" aria-label="dinsdag" data-i18n="w.d2" data-i18n-aria="w.dl2">di</button>
+            <button type="button" class="daybtn" data-dow="3" aria-pressed="false" aria-label="woensdag" data-i18n="w.d3" data-i18n-aria="w.dl3">wo</button>
+            <button type="button" class="daybtn" data-dow="4" aria-pressed="false" aria-label="donderdag" data-i18n="w.d4" data-i18n-aria="w.dl4">do</button>
+            <button type="button" class="daybtn" data-dow="5" aria-pressed="false" aria-label="vrijdag" data-i18n="w.d5" data-i18n-aria="w.dl5">vr</button>
+            <button type="button" class="daybtn" data-dow="6" aria-pressed="false" aria-label="zaterdag" data-i18n="w.d6" data-i18n-aria="w.dl6">za</button>
+            <button type="button" class="daybtn" data-dow="0" aria-pressed="false" aria-label="zondag" data-i18n="w.d0" data-i18n-aria="w.dl0">zo</button>
           </div>
         </div>
         <div class="filters__types">

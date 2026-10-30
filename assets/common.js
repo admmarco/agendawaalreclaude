@@ -122,6 +122,7 @@
   /* Alleen in de Engelse versie: dezelfde externe pagina via Google Translate */
   AW.translated = function (url, cls) {
     if (AW.lang !== "en" || !/^https?:/i.test(url || "")) return "";
+    if (/\.(png|jpe?g|gif|webp|pdf)([?#]|$)/i.test(url)) return ""; // posters en pdf's kan Google niet zo vertalen
     var u = "https://translate.google.com/translate?sl=nl&tl=en&u=" + encodeURIComponent(url);
     return '<a' + (cls ? ' class="' + cls + '"' : "") + ' href="' + AW.esc(u) + '" target="_blank" rel="noopener">' + AW.esc(AW.t("translated")) + "</a>";
   };

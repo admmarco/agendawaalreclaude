@@ -199,6 +199,7 @@
     var org = e.organiser || e.providerName || "";
     var links = '<a href="' + esc(e.providerUrl) + '" target="_blank" rel="noopener">' + esc(AW.t("moreinfo")) + " " + ICON.ext +
       '<span class="visually-hidden"> (' + esc(e.title) + ")</span></a>";
+    links += AW.translated(e.providerUrl);
     if (p.id) links += '<a href="' + esc(AW.href("kaart.html#venue-" + p.id)) + '">' + ICON.map + " " + esc(AW.t("onmap")) + "</a>";
     return '<li class="ev t-' + type + '" style="animation-delay:' + Math.min(i * 30, 300) + 'ms">' +
       timeHtml(e) +

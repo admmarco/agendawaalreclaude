@@ -187,7 +187,7 @@
         ' · <a class="pop__link" href="' + esc(AW.href("index.html?venue=" + encodeURIComponent(v.id))) + '">' + esc(AW.t("k.seeacts")) + "</a></p>"
         : (v.agenda ? '<p class="pop__count"><a class="pop__link" href="' + esc(v.agenda) + '" target="_blank" rel="noopener">' + esc(AW.t("k.venueAgenda")) + "</a></p>" : "")) +
       '<div class="pop__actions">' + routeBtn(ll.lat, ll.lng) +
-      (v.website ? '<a class="pop__link" href="' + esc(v.website) + '" target="_blank" rel="noopener">' + esc(AW.t("k.website")) + "</a>" : "") +
+      (v.website ? '<a class="pop__link" href="' + esc(v.website) + '" target="_blank" rel="noopener">' + esc(AW.t("k.website")) + "</a>" + AW.translated(v.website, "pop__link") : "") +
       "</div></div>";
   }
   function popHoreca(h) {
@@ -202,14 +202,14 @@
       '<p class="pop__addr">' + esc(w.address) + "</p>" +
       (w.description ? '<p class="pop__desc" lang="nl">' + esc(w.description) + "</p>" : "") +
       '<div class="pop__actions">' + routeBtn(ll.lat, ll.lng) +
-      (w.url ? '<a class="pop__link" href="' + esc(w.url) + '" target="_blank" rel="noopener">' + esc(AW.t("k.website")) + "</a>" : "") +
+      (w.url ? '<a class="pop__link" href="' + esc(w.url) + '" target="_blank" rel="noopener">' + esc(AW.t("k.website")) + "</a>" + AW.translated(w.url, "pop__link") : "") +
       "</div></div>";
   }
   function popStop(r, s) {
     return '<div><span class="pop__cat" style="--c:' + ROUTE_COLORS[r.id] + '">' + esc(AW.pick(r, "titel")) + "</span>" +
-      '<h3 class="pop__name">' + esc(AW.t("k.stop", { n: s.nr })) + " · " + esc(s.naam) + "</h3>" +
+      '<h3 class="pop__name">' + esc(AW.t("k.stop", { n: s.nr })) + " · " + esc(AW.pick(s, "naam")) + "</h3>" +
       '<p class="pop__addr">' + esc(s.adres) + "</p>" +
-      '<p class="pop__desc" lang="nl">' + esc(s.toelichting) + "</p>" +
+      '<p class="pop__desc">' + esc(AW.pick(s, "toelichting")) + "</p>" +
       '<div class="pop__actions">' + routeBtn(s.lat, s.lng) +
       '<a class="pop__link" href="' + esc(AW.href("rondleidingen.html#" + r.id)) + '">' + esc(AW.t("k.openRoute")) + "</a></div></div>";
   }
@@ -267,7 +267,7 @@
       var stops = r.stops.map(function (s) {
         return L.marker([s.lat, s.lng], {
           icon: L.divIcon({ className: "stop-icon", html: '<div class="stop stop--small" style="--c:' + col + '"></div>', iconSize: [14, 14], iconAnchor: [7, 7], popupAnchor: [0, -8] }),
-          title: s.nr + ". " + s.naam, alt: s.nr + ". " + s.naam, keyboard: true, pane: "routeStops"
+          title: s.nr + ". " + AW.pick(s, "naam"), alt: s.nr + ". " + AW.pick(s, "naam"), keyboard: true, pane: "routeStops"
         }).bindPopup(function () { return popStop(r, s); }, popOpts());
       });
       routes.push({ data: r, line: line, stops: stops, color: col });

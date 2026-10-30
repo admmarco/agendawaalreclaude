@@ -34,7 +34,7 @@
     "r.kicker": "By bike or on foot",
     "r.title": "Guided routes",
     "r.lede": "Get to know Aalst and Waalre in a morning or an afternoon. Choose a route to see the stops on the map, what there is to see, and where to stop for coffee.",
-    "r.enNote": "Stop names and descriptions are in Dutch, as in the source list.",
+    "r.enNote": "Street names stay in Dutch, so you can recognise them on the signs. Signs and information at the stops are mostly in Dutch too.",
     "r.choose": "Choose a route",
     "r.overview": "Overview map of all routes",
     "r.pick": "Choose a route above. The map already shows all four routes, each in its own colour.",
@@ -194,12 +194,12 @@
     L.polyline(pts, { color: "#fff", weight: 9, opacity: .9, lineJoin: "round", lineCap: "round" }).addTo(mapLayer);
     L.polyline(pts, { color: col, weight: 5, opacity: .95, lineJoin: "round", lineCap: "round", dashArray: r.vervoer === "wandel" ? "2 10" : null }).addTo(mapLayer);
     r.stops.forEach(function (s, i) {
-      var m = L.marker([s.lat, s.lng], { icon: stopIcon(s.nr, col), title: s.nr + ". " + s.naam, alt: s.nr + ". " + s.naam, keyboard: true, zIndexOffset: i })
+      var m = L.marker([s.lat, s.lng], { icon: stopIcon(s.nr, col), title: s.nr + ". " + AW.pick(s, "naam"), alt: s.nr + ". " + AW.pick(s, "naam"), keyboard: true, zIndexOffset: i })
         .bindPopup(function () {
           return '<span class="pop__cat" style="--c:' + col + '">' + esc(AW.t("r.stop", { n: s.nr })) + "</span>" +
-            '<h3 class="pop__name">' + esc(s.naam) + "</h3>" +
+            '<h3 class="pop__name">' + esc(AW.pick(s, "naam")) + "</h3>" +
             '<p class="pop__addr">' + esc(s.adres) + "</p>" +
-            '<p class="pop__desc" lang="nl">' + esc(s.toelichting) + "</p>" +
+            '<p class="pop__desc">' + esc(AW.pick(s, "toelichting")) + "</p>" +
             '<div class="pop__actions"><a class="pop__route" href="' + AW.routeUrl(s.lat, s.lng) + '" target="_blank" rel="noopener">' + esc(AW.t("route")) + "</a></div>";
         }, { maxWidth: 290 })
         .on("click", function () { activate(i, false); })
@@ -225,9 +225,9 @@
     document.getElementById("stops").innerHTML = r.stops.map(function (s, i) {
       return '<li><button type="button" class="stopitem" data-i="' + i + '" style="--c:' + col + '">' +
         '<span class="stopitem__nr" aria-hidden="true">' + s.nr + "</span><span>" +
-        '<span class="stopitem__name"><span class="visually-hidden">' + esc(AW.t("r.stop", { n: s.nr })) + ": </span>" + esc(s.naam) + "</span>" +
+        '<span class="stopitem__name"><span class="visually-hidden">' + esc(AW.t("r.stop", { n: s.nr })) + ": </span>" + esc(AW.pick(s, "naam")) + "</span>" +
         '<span class="stopitem__addr">' + esc(s.adres) + "</span>" +
-        '<span class="stopitem__note" lang="nl">' + esc(s.toelichting) + "</span></span></button></li>";
+        '<span class="stopitem__note">' + esc(AW.pick(s, "toelichting")) + "</span></span></button></li>";
     }).join("");
 
     var cups = (r.koffie || []).map(function (id) { return HORECA[id]; }).filter(Boolean);

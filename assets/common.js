@@ -37,12 +37,13 @@
       "foot.independent": "Independent overview, not an official municipal website.",
       "foot.full": "Full agenda:",
       "foot.data": "Data: agenda-Waalre (version {v}) · map © OpenStreetMap contributors",
-      "en.note": "Activities are listed in Dutch as published by the organiser.",
+      "en.note": "Activities are listed in Dutch as published by the organiser, and their websites are usually in Dutch too. Choose \u201cOpen in English\u201d to read a page through Google Translate, or use your browser\u2019s translate option. If something doesn\u2019t work there, such as a form, use the original link.",
       "loading": "Loading…",
       "error": "The data could not be loaded. Please refresh the page or try again later.",
       "route": "Get directions",
       "onmap": "On the map",
       "moreinfo": "More info from organiser",
+      "translated": "Open in English (Google Translate)",
       "website": "Website"
     }
   };
@@ -116,6 +117,13 @@
       if (!r.ok) throw new Error(path + " " + r.status);
       return r.json();
     });
+  };
+
+  /* Alleen in de Engelse versie: dezelfde externe pagina via Google Translate */
+  AW.translated = function (url, cls) {
+    if (AW.lang !== "en" || !/^https?:/i.test(url || "")) return "";
+    var u = "https://translate.google.com/translate?sl=nl&tl=en&u=" + encodeURIComponent(url);
+    return '<a' + (cls ? ' class="' + cls + '"' : "") + ' href="' + AW.esc(u) + '" target="_blank" rel="noopener">' + AW.esc(AW.t("translated")) + "</a>";
   };
 
   AW.routeUrl = function (lat, lng) {

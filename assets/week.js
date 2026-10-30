@@ -376,7 +376,11 @@
   window.addEventListener("resize", measure);
 
   document.querySelectorAll(".seg__btn").forEach(function (b) {
-    b.addEventListener("click", function () { state.range = b.getAttribute("data-range"); render(); });
+    b.addEventListener("click", function () {
+      state.range = b.getAttribute("data-range");
+      if (state.range === "today" || state.range === "weekend") state.days = []; // anders vaak een lege lijst
+      render();
+    });
   });
   /* Dagen zijn aan te vinken in combinatie; vandaag/weekend zijn dan te smal, dus dan naar 7 dagen */
   document.querySelectorAll(".daybtn").forEach(function (b) {
